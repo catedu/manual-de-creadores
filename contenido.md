@@ -23,41 +23,47 @@ Podemos suponer entre **1-2 páginas por hora de curso** en ExeLearning dependie
 
 **(optativo) Introducción**.
 
-1. Breve y Motivadora, es conveniente introducir **imágenes**, **vídeos**,cuestionario inicial... (optativo)
+1. Breve y Motivadora, es conveniente introducir **imágenes**, **vídeos**, cuestionario inicial... (optativo)
 1. Por ejemplo puede incluir los **objetivos** del módulo.
 1. Puede incluir un **caso práctico**, que dé sentido a los contenidos y que pueda relacionarse con las experiencias del aula. (Optativo)
+
+**Contenidos con recursos que forman parte del contenido, por lo tanto se incrustan en los contenidos.**
 
 1. No perder el objetivo de los contenidos: Guiar al alumno docente para que consiga realizar las actividades.
 1. Variados, motivadores por ejemplo **Insertar ****vídeo Youtube**,
 1. Debemos poner enlaces a páginas solo si la intención es que el alumno navegue por ella y siempre que sean páginas estables
-Los enlaces, determinar
 
-<li style="list-style-type: none;">
+1. En Los enlaces, determinar:
+ **Si es obligatorio su lectura:** el alcance (de tal enlace desde la página ..., o este párrafo...) y después hacer un resumen, esquema, enumeración de las ideas principales.
+**Si no es obligatorio,** ponerlo en un capítulo **Para saber más ...**
 
-1. **Si es obligatorio su lectura:** el alcance (de tal enlace desde la página ..., o este párrafo...) y después hacer un resumen, esquema, enumeración de las ideas principales.
-1. **Si no es obligatorio,** ponerlo en un capítulo **Para saber más ...**
+1. Este apartado **"Para saber mas..."**
+Sirven para poner todo aquello que no sea estrictamente necesario.
+Recomendable enlaces recursos externos
+Todos los contenidos en este apartado no son mínimos exigibles.
+Es conveniente explicar en un par de líneas qué es lo que contiene ese enlace.
 
-<li style="list-style-type: none;">
+**(Optativo) Resumen de la unidad, síntesis...Esquemática, numerada ...**
 
-1. Sirven para poner todo aquello que no sea estrictamente necesario.
-1. Recomendable enlaces recursos externos
-1. Todos los contenidos en este apartado no son mínimos exigibles.
-1. Es conveniente explicar en un par de líneas qué es lo que contiene ese enlace.
+![](img/descarga.png)
+
+_(1) La velocidad lectora comprensiva está por las 200 palabras por minuto. 
+Por pantalla la vista se cansa más por lo tanto podemos suponer 1/3 de efectividad, luego 4.000 palabras por hora._
 
 ## En general
 
 Los contenidos desarrollados han de ser rigurosos en los siguientes aspectos:
 
 
-Científico-técnico: los contenidos han sido contrastados y son actuales.
+- Científico-técnico: los contenidos han sido contrastados y son actuales.
 
 
-Sociocultural: atención expresa a la igualdad de género y a cuestiones socialmente relevantes para la educación.
+- Sociocultural: atención expresa a la igualdad de género y a cuestiones socialmente relevantes para la educación.
 
 
-Pedagógico: los contenidos se han adecuado al perfil del participante medio y a los objetivos de la acción formativa, teniendo en cuenta el desarrollo de capacidades.
+- Pedagógico: los contenidos se han adecuado al perfil del participante medio y a los objetivos de la acción formativa, teniendo en cuenta el desarrollo de capacidades.
 
 
-Sociocultural: atención expresa a la igualdad de género y a cuestiones socialmente relevantes para la educación.
 
-Este rigor en los contenidos y la información transmitida <st1:personname productid="es compatible con">es compatible con</st1:personname> la incorporación de elementos lúdicos, con el fin de incrementar la motivación y de hacer más agradable el seguimiento de los cursos.
+
+Este rigor en los contenidos y la información transmitida es compatible con la incorporación de elementos lúdicos, con el fin de incrementar la motivación y de hacer más agradable el seguimiento de los cursos.

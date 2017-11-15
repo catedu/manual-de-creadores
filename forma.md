@@ -4,11 +4,13 @@
 ## Estilo
 
 
-- Claro y simple<sup>1</sup> ****
-- Buscar **títulos** atractivos y **cortos** para las unidades y los apartados.
-- Al **principio** de cada apartado, usar el estilo **dialogado**. No entrar directamente en materia y acompañar siempre de una imagen.
-Evitar los **párrafos extensos**.
+Claro y simple<sup>1</sup> 
 
+Buscar **títulos** atractivos y **cortos** para las unidades y los apartados.
+
+Al **principio** de cada apartado, usar el estilo **dialogado**. No entrar directamente en materia y acompañar siempre de una imagen.
+
+Evitar los **párrafos extensos**.
 - Describe brevemente los **objetivos**
 - En el **cuerpo** inserta imágenes, vídeos ...
 - Destaca los **conceptos claves**
@@ -44,6 +46,6 @@ Tal como nombramos, hay que evitar nombres de páginas extensos, pues ensancha e
 - **Evitar numeraciones y nombres como Unidad, Sección o sus abreviaturas**, dificulta la edición y es innecesario.
 - El primer orden de jerarquía hay que poner el título del nombre del módulo, sólo puede haber una página en ese orden de jerarquía. De ahí cuelgan todas las demás páginas. 
 
-<img src="img/arbolsi.png" width="216" height="333" /><img src="arbolno.png" width="228" height="222" />
+<img src="img/arbolsi.png" width="216" height="333" />    <img src="img/arbolno.png" width="228" height="222" />
 
 
