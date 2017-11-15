@@ -3,13 +3,13 @@
 
 ## Derechos
 
-* Si tu labor va a tener retribución** está fijada por [resolución ](papeles_y_legislacin.html)25€ por hora del curso.
+* Si tu labor va a tener retribución** está fijada por [resolución ](papeles_y_legislacin.html) 25€ por hora del curso.
 
     * Es decir para un curso de 50€ son 1 250€ que descontando IRPF 978.50€.
 
 * Si tu labor no va a tener retribución: Te damos una publicación con ISBN.
 
-* En los dos casos cedes la propiedad a la DGA y los derechos de los contenidos serán Creative Commons NC-BY-SA (o sea, tú siempre eres el autor/a y se te reconoce y cita en la obra, pero ya no tienes su propiedad y otra persona no puede aprovecharse económicamente de ella, y esto afecta también a las posibles obras derivadas)
+* En los dos casos cedes la propiedad a la DGA y los derechos de los contenidos serán [Creative Commons NC-BY-SA](https://creativecommons.org/licenses/by-nc-sa/3.0/es/) (o sea, tú siempre eres el autor/a y se te reconoce y cita en la obra, pero ya no tienes su propiedad y otra persona no puede aprovecharse económicamente de ella, y esto afecta también a las posibles obras derivadas)
 
 ![](creativecommons.png)
 
@@ -17,9 +17,13 @@
 
 * También te proponemos la primera tutorización  (y las siguientes hasta que haya una convocatoria abierta de tutores de tu curso) para que puedas mejorar tu curso.
 
-- excepto en el caso de los minicursos que no hay tutor.
+    * excepto en el caso de los minicursos que no hay tutor.
 
--  es decir para un curso de 50 horas y 40 alumnos: 1.400€
+* La retribución de la tutorización está fijada por resolución a 0.7€/hora y alumno
+
+    * es decir para un curso de 50 horas y 40 alumnos: 1.400€
+
+* La tutorización tiene derecho a una certificación con número GIFP como tutor de curso on-line.[1]
 
 ## <img src="img/derechos-del-nincc83o-10-mafalda.gif" width="245" height="259" />
 
