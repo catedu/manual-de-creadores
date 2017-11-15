@@ -3,7 +3,7 @@
 
 ## Derechos
 
-* Si tu labor va a tener retribución** está fijada por [resolución ](papeles_y_legislacin.html) 25€ por hora del curso.
+* Si tu labor va a tener retribución** está fijada por [resolución](papeles_y_legislacin.md) 25€ por hora del curso.
 
     * Es decir para un curso de 50€ son 1 250€ que descontando IRPF 978.50€.
 
@@ -13,19 +13,19 @@
 
 ![](creativecommons.png)
 
-* Cuando acabes tu trabajo y tenga nuestro visto bueno, tienes que entregar estos Papeles
+* Cuando acabes tu trabajo y tenga nuestro visto bueno, tienes que entregar estos [papeles](papeles_y_legislacin.md)
 
-* También te proponemos la primera tutorización  (y las siguientes hasta que haya una convocatoria abierta de tutores de tu curso) para que puedas mejorar tu curso.
+* También te proponemos la primera tutorización  (y las siguientes hasta que haya una convocatoria abierta de tutores) para que puedas mejorar tu curso.
 
     * excepto en el caso de los minicursos que no hay tutor.
 
-* La retribución de la tutorización está fijada por resolución a 0.7€/hora y alumno
+* La retribución de la tutorización está fijada por [resolución](papeles_y_legislacin.md) a 0.7€/hora y alumno
 
     * es decir para un curso de 50 horas y 40 alumnos: 1.400€
 
 * La tutorización tiene derecho a una certificación con número GIFP como tutor de curso on-line.[1]
 
-## <img src="img/derechos-del-nincc83o-10-mafalda.gif" width="245" height="259" />
+![](img/derechos-del-nincc83o-10-mafalda.gif)
 
 ## Deberes
 
