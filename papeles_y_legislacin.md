@@ -10,8 +10,8 @@
 
 Retribución
 
-<li>Pago [Resolución 16/12/16](http://aularagon.catedu.es/materialesaularagon2013/cursotut/cursotut3/2017-1-1-Resolucion_pagos_ponentes.pdf) (pdf - 1.42 <abbr lang="en" title="MegaBytes">MB</abbr>).
-<ul>
+Pago [Resolución 16/12/16](http://aularagon.catedu.es/materialesaularagon2013/cursotut/cursotut3/2017-1-1-Resolucion_pagos_ponentes.pdf) (pdf - 1.42 <abbr lang="en" title="MegaBytes">MB</abbr>).
+
 - Importe bruto = **25€** *Num_horas_curso
 - Remodelación= 25% sustancial = 50%
 

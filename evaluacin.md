@@ -22,8 +22,8 @@ En un curso de formación al docente, **la mejor** actividad es pedirle que lo
 
 Hay que preparar al alumno, guiarlo y concretar muy bien lo que se le pide:
 
-<li>Contexto: darle de opción **un plan B** si no se puede:
-<ul>
+Contexto: darle de opción **un plan B** si no se puede:
+
 - ¿Y si está de baja, no da clase, comisión de servicios...?
 - ¿la actividad es adecuada a cualquier nivel, clase o situación: FP, infantil, adultos, PT …?
 - ¿y si está realizando el curso en periodo no lectivo? (la gran mayoría aprovecha periodos no lectivos y en casa para hacer los cursos a distancia, en Aulargon hay una convocatoria en Verano)

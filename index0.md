@@ -1,22 +1,13 @@
-
-# Manual para creadores de cursos en Aularagón
-
-[<img src="cabeceraweb.jpg" width="442" height="71" />](http://www.catedu.es)
-
 # Manual para creadores de cursos en [Aularagón](http://aularagon.catedu.es/)
+
+![](img/cabeceraweb.jpg)
 
 Este es un manual para los creadores de cursos en Aularagón
 
 ## Contacto
 
-- Cuestiones relativas a cobro, administrativas, ....Javier Quintana [direccion@catedu.es](mailto:direccion@catedu.es) 638855010
-- Cuestiones técnicas en la creación Jesús López Leyva [asesor@catedu.es](mailto:asesor@catedu.es)
-- Cuestiones sobre los contenidos: José Cariñena Burbano contenidos@catedu.es 
+A través de [nuestro soporte](http://soporte.catedu.es/login.php). Al registrate no tendrás rellenar los datos de contacto en cada consulta.
+- Para cuestiones relativas a cobros, nóminas, administración... en **Temas de ayuda** elige la categoría **General**.
+- Cuestiones técnicas en la creación de contenidos, elige la categoría **Aularagón - Contenidos**.
 
-
-
-Modificado y revisado Septiembre 2017
-
-[<img src="aulargon.jpg" width="645" height="71" />](http://aularagon.catedu.es/)
-
-<br /><br />
+![](img/aulargon.jpg)

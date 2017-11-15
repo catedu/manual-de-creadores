@@ -5,11 +5,11 @@ A veces lo sencillo es lo mejor
 
 1. Lo que recomendamos es entrar en una cuenta **Google** (que nosotros te lo proporcionamos)
 1. abrir un documento de **Google en Drive** tipo **presentación**
-<li>En cada diapositiva se pone de imagen de** fondo una captura de pantalla.** Para la captura de pantalla existen numerosas herramientas:<ol>
+En cada diapositiva se pone de imagen de** fondo una captura de pantalla.** Para la captura de pantalla existen numerosas herramientas:
 1. LIGHT SHOT Complemento de Chrome para capturar la pantalla [aquí](https://chrome.google.com/webstore/detail/lightshot-screenshot-tool/mbniclmhobmnbdlbpiphghaielnnpgdp)
-<li>
+
 [JING](https://www.techsmith.com/jing.html) 
-Otro software para capturar pantalla y además de capturar vídeo</li>
+Otro software para capturar pantalla y además de capturar vídeo
 1. Software libre [GreenShot](http://getgreenshot.org/)
 1. Apretar el botón ImprPant
 
