@@ -15,5 +15,4 @@ ____
 * [Video tutoriales](video_tutoriales.md)
     * [Presentación de Google](presentacin_de_google.md)
     * [Como conseguir el código embed de Presentaciones de Google](como_conseguir_el_cdigo_embed_de_presentaciones_de_google.md)
-    * [Con el código embed como se embebe](con_el_cdigo_embed_como_se_embebe.md)
 * [Papeles y Legislación](papeles_y_legislacin.md)
