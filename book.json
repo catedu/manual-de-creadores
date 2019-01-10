@@ -1,0 +1,19 @@
+{
+    "plugins": ["youtube", "accordion", "styled-blockquotes", "localized-footer"],
+    "language": "es",
+    "variables": {
+        "title": "Manual de Creadores de Aularagón",
+        "authors": [
+            "Equipo de CATEDU"
+        ],
+        "collaborators": [
+            { "name": "_________", "edited": "_____________" }
+        ]
+    },
+    "pluginsConfig": {
+        "localized-footer": {
+            "hline": true,
+            "filename": "./FOOTER.md"
+        }
+    }
+}

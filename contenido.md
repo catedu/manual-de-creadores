@@ -15,11 +15,10 @@ Ajustar tareas y contenidos al tiempo de que el participante dispone para el mó
 
 Para un módulo de 10 horas, de forma aproximada y orientativa:
 
-* Comprensión lectora 7-8 horas[1]
+* Comprensión lectora 7-8 horas[^1]
 
     - Si tiene audiovisuales y/o actividades, hay que restar su tiempo.
-    - Podemos suponer entre **1-2 páginas por hora de curso** en ExeLearning dependiendo mucho de los contenidos, actividades, audiovisuales..
-
+    - Podemos suponer entre **1-2 páginas por hora de curso** en Gitbook dependiendo mucho de los contenidos, actividades, audiovisuales..
         - Es decir para un módulo de 10 horas por ejemplo 6-10 páginas.
 
     * La elaboración de la tarea a entregar al tutor 2 - 3 horas.
@@ -37,7 +36,7 @@ Los apartados que se relacionan a continuación deben tener el estilo **Título 
 1. **(optativo) Introducción** en la propia página de inicio del tema (no poner de título _introducción_).
 
     1. Breve y Motivadora, es conveniente introducir **imágenes**, **vídeos**...
-    3. Puede incluir un **caso práctico**, que de sentido a los contenidos y que pueda relacionarse con las experiencias del aula (optativo).
+    2. Puede incluir un **caso práctico**, que de sentido a los contenidos y que pueda relacionarse con las experiencias del aula (optativo).
 
 2. **Contenidos con recursos que forman parte del contenido (incrustados).**
 
@@ -47,7 +46,6 @@ Los apartados que se relacionan a continuación deben tener el estilo **Título 
     4. En Los enlaces, determina:
         * **Si es obligatorio su lectura:** el alcance (de tal enlace desde la página ..., o este párrafo...) y después hacer un resumen, esquema, enumeración de las ideas principales.
         * **Si no es obligatorio,** ponerlo en un capítulo **Para saber más ...**
-
     5. **"Para saber mas..."** 
         * Sirven para poner todo aquello que no sea estrictamente necesario.
         * Recomendable enlaces recursos externos.
@@ -57,7 +55,7 @@ Los apartados que se relacionan a continuación deben tener el estilo **Título 
 
 ![](img/descarga.png)
 
-_[1] La velocidad lectora comprensiva está por las 200 palabras por minuto. 
+[^1]: La velocidad lectora comprensiva está por las 200 palabras por minuto. 
 Por pantalla la vista se cansa más por lo tanto podemos suponer 1/3 de efectividad, luego 4.000 palabras por hora._
 
 ## En general
