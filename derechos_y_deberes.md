@@ -11,7 +11,7 @@
 
 * En los dos casos cedes la propiedad a la DGA y los derechos de los contenidos serán [Creative Commons NC-BY-SA](https://creativecommons.org/licenses/by-nc-sa/3.0/es/) (o sea, tú siempre eres el autor/a y se te reconoce y cita en la obra, pero ya no tienes su propiedad y otra persona no puede aprovecharse económicamente de ella, y esto afecta también a las posibles obras derivadas)
 
-![](creativecommons.png)
+![](img/creativecommons.png)
 
 * Cuando acabes tu trabajo y tenga nuestro visto bueno, tienes que entregar estos [papeles](papeles_y_legislacin.md)
 
