@@ -19,16 +19,20 @@ Ver apartado 6.- [Video tutoriales](/video_tutoriales.md) 6.1.-[Presentación de
 #Acordeon
 Si pones el siguiente código:
 
-\%accordion%Solución%accordion%
+\%accordion% Solución %accordion%
+
 Aquí pongo mi solución
 bla, bla, bla, imágenes, vídeos ...
+
 \%/accordion%
 
 Este es el resultado:
 
-%accordion%Solución%accordion%
+%accordion% Solución %accordion%
+
 Aquí pongo mi solución
 bla, bla, bla, imágenes, vídeos ...
+
 %/accordion%
 
 #Tablas
