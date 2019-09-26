@@ -2,6 +2,8 @@
 
 * [Introducción](README.md)
 * [Esta chupao con GitBook](esta-chupao-con-gitbook.md)
+  * [Títulos, negritas, cursivas, viñetas](esta-chupao-con-gitbook/negritas-cursivas-vinetas.md)
+  * [Markdown](esta-chupao-con-gitbook/markdown.md)
 
 ## Manual de creadores de Aularagón
 
