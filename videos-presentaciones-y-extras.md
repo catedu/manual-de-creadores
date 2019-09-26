@@ -2,7 +2,8 @@ Si te fijas en FILES verás un archivo que se llama *book.json* si eres curioso 
 #Vídeos
 Por ejemplo nos interesa embeber el siguiente vídeo de Youtube: https://www.youtube.com/watch?v=JXamK7Lbp4I
 
-Pues el código es el siguiente
+Pues el código es el siguiente:
+
 \{%youtube%}https://www.youtube.com/watch?v=JXamK7Lbp4I{%endyoutube%}
 
 Y queda así:
