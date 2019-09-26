@@ -15,6 +15,8 @@
 
 * Cuando acabes tu trabajo y tenga nuestro visto bueno, tienes que entregar estos [papeles](papeles_y_legislacin.md)
 
+###Tutorización
+
 * También te proponemos la primera tutorización  (y las siguientes hasta que haya una convocatoria abierta de tutores) para que puedas mejorar tu curso.
 
     * excepto en el caso de los minicursos que no hay tutor.
@@ -22,8 +24,7 @@
 * La retribución de la tutorización está fijada por [resolución](papeles_y_legislacin.md) a 0.7€/hora y alumno
 
     * es decir para un curso de 50 horas y 40 alumnos: 1.400€
-
-* La tutorización tiene derecho a una certificación con número GIFP como tutor de curso on-line.[1]
+    * La tutorización tiene derecho a una certificación con número GIFP como tutor de curso on-line. ([Ver certificados como tutor](https://catedu.gitbooks.io/curso-de-tutores/content/8_certificados.html))
 
 ![](img/derechos-del-nincc83o-10-mafalda.gif)
 
@@ -81,5 +82,3 @@ Normalmente establecemos que un tema-módulo por cada 10 horas de duración del 
 ¡Claro! entra en la plataforma de Moodle: [http://moodle.catedu.es/](http://moodle.catedu.es/) en cualquier curso, como invitado.
 
 ![](img/B9oXViWIIAExKFt.jpg)
-
-[1] En muchas baremaciones tiene el mismo peso que ponencia. El número GIFP=Gestión Integral Formación del Profesorado es siempre que seas docente, en el caso que no lo seas no llevará número GIFP.
