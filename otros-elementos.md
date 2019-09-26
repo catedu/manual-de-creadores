@@ -25,20 +25,17 @@ Tiene este código:
 
 Pon tres arteriscos 
 
-~~~
+\ ***
 
-***
 
-~~~
 
 Este es el resultado
 
 ***
 #Código
-Ponemos las tres veguillas ~~~ al principio y al final
-~~~
+\`Esto es una línea de código`
 `Esto es una línea de código`
-~~~
+
 
 
 
