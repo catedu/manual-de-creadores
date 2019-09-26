@@ -5,9 +5,9 @@
 
 * Si tu labor va a tener retribución** está fijada por [resolución](papeles_y_legislacin.md) 25€ por hora del curso.
 
-    * Es decir para un curso de 50€ son 1 250€ que descontando IRPF 978.50€.
+    * Es decir para un curso de 50€ son 1 250€ que descontando IRPF 978,50€.
 
-* Si tu labor no va a tener retribución: Te damos una publicación con ISBN.
+* Si tu labor no va a tener retribución o según nuestra valoración tiene una retribución menor a la merecida: Te damos una publicación con ISBN.
 
 * En los dos casos cedes la propiedad a la DGA y los derechos de los contenidos serán [Creative Commons NC-BY-SA](https://creativecommons.org/licenses/by-nc-sa/3.0/es/) (o sea, tú siempre eres el autor/a y se te reconoce y cita en la obra, pero ya no tienes su propiedad y otra persona no puede aprovecharse económicamente de ella, y esto afecta también a las posibles obras derivadas)
 

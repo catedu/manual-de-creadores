@@ -1,12 +1,13 @@
 # Summary
 
 * [Introducción](README.md)
+* [Esta chupao con GitBook](esta-chupao-con-gitbook.md)
 
 ## Manual de creadores de Aularagón
 
 * [Manual para creadores de cursos en Aularagón](index0.md)
 * [Derechos y deberes](derechos_y_deberes.md)
-* [Está chupao](est_chupao.md)
+* [Está chupao con Documento Google](est_chupao.md)
 * [Orientaciones](orientaciones.md)
   * [Forma](forma.md)
   * [Contenido](contenido.md)
