@@ -23,13 +23,7 @@ Tiene este código:
 
 #Regla horizontal
 
-Pon tres arteriscos 
-
-\ ***
-
-
-
-Este es el resultado
+Pon tres arteriscos seguidos y este es el resultado:
 
 ***
 #Código
