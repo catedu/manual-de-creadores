@@ -1,6 +1,6 @@
 # Títulos
 
-Para poner un título simplemente añade el símbolo \# delante del texto, cuanto más \# pongas, más baja el nivel.
+Para poner un título simplemente añade el símbolo \# delante del texto, cuanto más \# pongas, más bajas el nivel.
 
 ![](/assets/2019-09-26 10_21_42.jpg)
 
