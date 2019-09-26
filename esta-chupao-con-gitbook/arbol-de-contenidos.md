@@ -6,3 +6,6 @@ En el árbol de la izquierda puedes añadir páginas simplemente en Añadir art�
 ##Truco
 Olvídate de maquetarlo hasta el final y luego ves a FILES -SUMMARY.md y ahí puedes editar en Markdown ese índice
 
+**Esto te permite mucha rapidez y posibilidades**
+
+![](/assets/2019-09-26 11_21_17.jpg)
