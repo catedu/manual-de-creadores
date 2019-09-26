@@ -19,12 +19,7 @@ Ver apartado 6.- [Video tutoriales](/video_tutoriales.md) 6.1.-[Presentación de
 #Acordeon
 Si pones el siguiente código:
 
-\%accordion% Solución \%accordion%
-
-Aquí pongo mi solución
-bla, bla, bla, imágenes, vídeos ...
-
-\%/accordion%
+![](/assets/2019-09-26 11_41_30.jpg)
 
 Este es el resultado:
 
