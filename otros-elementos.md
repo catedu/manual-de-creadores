@@ -36,7 +36,9 @@ Este es el resultado
 ***
 #Código
 Ponemos las tres veguillas ~~~ al principio y al final
-
+~~~
+`Esto es una línea de código`
+~~~
 
 
 
