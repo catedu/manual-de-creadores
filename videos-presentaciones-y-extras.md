@@ -16,14 +16,33 @@ Es ideal para hacer videotutoriales de forma rápida y muy editable. Recomendamo
 Ver apartado 6.- [Video tutoriales](/video_tutoriales.md) 6.1.-[Presentación de Google](/presentacin_de_google.md) 6.2.-[Como conseguir el código embed](/como_conseguir_el_cdigo_embed_de_presentaciones_de_google.md)
 
 #Acordeon
-Si pones el siguiente código
+Si pones el siguiente código:
+
 \%accordion%Solución%accordion%
 Aquí pongo mi solución
 bla, bla, bla, imágenes, vídeos ...
 \%/accordion%
 
-Este es el resultado
+Este es el resultado:
+
 %accordion%Solución%accordion%
 Aquí pongo mi solución
 bla, bla, bla, imágenes, vídeos ...
 %/accordion%
+
+#Tablas
+Si pones este código:
+
+\| Orden       | MotorA | MotorB |
+\|-------------|--------|--------|
+\| Velocidad   | 10     | 11     |
+\| Dirección 1 | 8      | 12     |
+\| Dirección 2 | 9      | 13     |
+
+El resultado es:
+
+| Orden       | MotorA | MotorB |
+|-------------|--------|--------|
+| Velocidad   | 10     | 11     |
+| Dirección 1 | 8      | 12     |
+| Dirección 2 | 9      | 13     |
