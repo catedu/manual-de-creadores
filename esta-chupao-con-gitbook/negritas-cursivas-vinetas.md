@@ -37,7 +37,20 @@ Y si quieres que estén anidadas, añade tabuladores al principio, por ejemplo l
 1. Elemento 4
 
 Tiene el siguiente código:
-![](/assets/2019-09-26 10_30_04.jpg)
+~~~
+
+1. Elemento 1
+1. Elemento 2
+1. Elemento 3
+    1. Elemento 3.1
+    1. Elemento 3.2
+        1. Elemento 3.2.1
+1. Elemento 4
+
+~~~
+
+
+
 
 
 
