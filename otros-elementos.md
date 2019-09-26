@@ -36,11 +36,7 @@ Se ve así:
 #Tablas
 Si pones este código:
 
-\| Orden       | MotorA | MotorB |
-\|-------------|--------|--------|
-\| Velocidad   | 10     | 11     |
-\| Dirección 1 | 8      | 12     |
-\| Dirección 2 | 9      | 13     |
+![](/assets/2019-09-26 11_51_10.jpg)
 
 El resultado es:
 
