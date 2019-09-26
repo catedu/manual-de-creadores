@@ -35,19 +35,3 @@ bla, bla, bla, imágenes, vídeos ...
 
 %/accordion%
 
-#Tablas
-Si pones este código:
-
-\| Orden       | MotorA | MotorB |
-\|-------------|--------|--------|
-\| Velocidad   | 10     | 11     |
-\| Dirección 1 | 8      | 12     |
-\| Dirección 2 | 9      | 13     |
-
-El resultado es:
-
-| Orden       | MotorA | MotorB |
-|-------------|--------|--------|
-| Velocidad   | 10     | 11     |
-| Dirección 1 | 8      | 12     |
-| Dirección 2 | 9      | 13     |
