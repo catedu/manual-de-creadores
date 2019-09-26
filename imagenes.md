@@ -10,5 +10,8 @@ En este caso el código es \!\[](/assets/2019-09-26 11_05_08.jpg) porque se ha s
 
 Si es por URL o sea utilizando direccion absoluta sería 
 
+\!\[](https://catedu.gitbooks.io/manual-de-creadores/content/assets/2019-09-26%2011_05_08.jpg)
+
+Ojo con los [derechos de autor](/derechos_de_autor.md)
 
 
