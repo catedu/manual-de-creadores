@@ -4,7 +4,7 @@ Por ejemplo nos interesa embeber el siguiente vídeo de Youtube: https://www.you
 
 Pues el código es el siguiente:
 
-\{%youtube%}https://www.youtube.com/watch?v=JXamK7Lbp4I{%endyoutube%}
+![](/assets/2019-09-26 11_38_46.jpg)
 
 Y queda así:
 
