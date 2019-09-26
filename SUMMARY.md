@@ -5,6 +5,7 @@
   * [Títulos, negritas, cursivas, viñetas](esta-chupao-con-gitbook/negritas-cursivas-vinetas.md)
   * [Markdown](esta-chupao-con-gitbook/markdown.md)
 * [Enlaces y otros](otros-elementos.md)
+* [Imágenes](imagenes.md)
 
 ## Manual de creadores de Aularagón
 

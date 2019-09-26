@@ -33,7 +33,10 @@ Este es el resultado
 
 ***
 #Código
-\`Esto es una línea de código`
+Si pones \`Esto es una línea de código`
+
+Se ve así:
+
 `Esto es una línea de código`
 
 
