@@ -1,1 +1,41 @@
-{"plugins": ["youtube", "accordion", "styled-blockquotes", "localized-footer", "edit-link", "githubcontributors"], "language": "es", "variables": {"title": "Manual de Creadores de Aularagón", "authors": ["Equipo de CATEDU"], "collaborators": [{"name": "_________", "edited": "_____________"}]}, "pluginsConfig": {"localized-footer": {"hline": true, "filename": "./FOOTER.md"}, "edit-link": {"base": "https://github.com/catedu/manual-de-creadores/edit/master", "label": "Edita esta página"}, "githubcontributors": {"githubOwner": "catedu", "githubRepository": "manual-de-creadores"}}}
+{
+  "plugins": [
+    "youtube",
+    "accordion",
+    "styled-blockquotes",
+    "localized-footer",
+    "edit-link",
+    "githubcontributors",
+    "ga"
+  ],
+  "language": "es",
+  "variables": {
+    "title": "Manual de Creadores de Aularagón",
+    "authors": [
+      "Equipo de CATEDU"
+    ],
+    "collaborators": [
+      {
+        "name": "_________",
+        "edited": "_____________"
+      }
+    ]
+  },
+  "pluginsConfig": {
+    "localized-footer": {
+      "hline": true,
+      "filename": "./FOOTER.md"
+    },
+    "edit-link": {
+      "base": "https://github.com/catedu/manual-de-creadores/edit/master",
+      "label": "Edita esta página"
+    },
+    "githubcontributors": {
+      "githubOwner": "catedu",
+      "githubRepository": "manual-de-creadores"
+    },
+    "ga": {
+      "token": "UA-135691041-2"
+    }
+  }
+}
