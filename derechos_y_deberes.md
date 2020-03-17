@@ -13,6 +13,8 @@
 
 ![](img/creativecommons.png)
 
+* **POR FAVOR LEE MUY BIEN EL APARTADO [5.4.- DERECHOS DE AUTOR](/derechos_de_autor.md)**
+
 * Cuando acabes tu trabajo y tenga nuestro visto bueno, tienes que entregar estos [papeles](papeles_y_legislacin.md)
 
 ###Tutorización
