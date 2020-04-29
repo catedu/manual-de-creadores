@@ -1,5 +1,5 @@
 
-# Papeles y Legislación
+# Papeles y legislación
 
 ## Papeles
 
@@ -21,14 +21,14 @@ Retribución
     - Para el cómputo de horas máximo en materia de incompatibilidades, es la tercera parte de horas del curso. [Art 12](http://aularagon.catedu.es/materialesaularagon2013/cursotut/cursotut3/2017-1-1-Resolucion_pagos_ponentes.pdf)
     - Funcionarios: Según Art. 33 del R.D. 462/2002, 30/5 (BOE 129) no hay que sobrepasar el total de las remuneraciones anuales por colaboración en actividades de formación del profesorado el 25% de las retribuciones [[ver](http://www.boe.es/buscar/doc.php?id=BOE-A-2002-10337)]
 
-Creadores: Convocatorias creación de cursos en Aularagón pasadas:
+Creación: Convocatorias creación de cursos en Aularagón pasadas:
 
 - [Lomce 19/9/14](http://www.catedu.es/webcatedu/index.php/convocatorias/71-convocatoria-de-seleccion-de-creadores-de-contenidos-de-cursos-online-lomce)
-- [Competencia linguistica 17/10/14](http://www.educaragon.org/Files/Files/UserFiles/File/Educacin%20a%20distancia/Resolucion_17_octubre_2014_materiales_competencia_linguistica.pdf) y [10/12/14](http://www.educaragon.org/Files/Files/UserFiles/File/Educacin%20a%20distancia/Resolucion_definitiva_materiales_comp_ling_2014.pdf)
+- [Competencia lingüística 17/10/14](http://www.educaragon.org/Files/Files/UserFiles/File/Educacin%20a%20distancia/Resolucion_17_octubre_2014_materiales_competencia_linguistica.pdf) y [10/12/14](http://www.educaragon.org/Files/Files/UserFiles/File/Educacin%20a%20distancia/Resolucion_definitiva_materiales_comp_ling_2014.pdf)
 
-Tutores:
+Tutorización:
 
-- [Instrucciones al tutor con enlaces a los documentos de pautas de corrección](https://catedu.gitbooks.io/curso-de-tutores/content/)
+- [Instrucciones para tutorizar cursos con enlaces a los documentos de pautas de corrección](https://catedu.gitbooks.io/curso-de-tutores/content/)
 - [Resolución CATEDU 19/9/2014](http://www.catedu.es/webcatedu/images/noticias/Resoluci%C3%B3n%20de%2017%20de%20septiembre%20de%202014%20CONVOCATORIA%20TUTORES.pdf)
 - [Resolución CATEDU 21/4/2016](http://web.catedu.es/webcatedu/index.php/convocatorias/166-convocatoria-creacion-de-listado-de-tutores-para-aularagon)
 - [Resolución CATEDU 10/7/2017](http://web.catedu.es/webcatedu/index.php/convocatorias/219-convocatoria-seleccion-de-tutores-aularagon)
