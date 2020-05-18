@@ -1,6 +1,6 @@
-#Esta chupao con GitBook
+#Está chupao con GitBook
 
-Si eres de los valientes puedes editar diréctamente en el editor online de Gitbook.
+Si eres valiente, puedes editar directamente en el editor online de Gitbook.
 
 Te tenemos que dar acceso y tienes que entrar así:
 
