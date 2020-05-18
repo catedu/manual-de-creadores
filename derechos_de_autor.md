@@ -14,12 +14,12 @@ Tienes dos opciones:
 1. Utilizar imágenes con licencia libre [aquí tienes algunas](http://aularagon.catedu.es/materialesaularagon2013/HerramientasFormacionProfesorado/Diseno/imgenes.html)
 1. Realizar tus propias imágenes (con editores de imagen, de Office, mapas conceptuales, fotos tuyas...)
 
-Cuando se utilicen imágenes con licencia libre, hay que citar su origen, con este formato (la imagen final es un ejemplo):
+Cuando se utilicen imágenes con licencia libre, hay que citar su origen con este formato (la imagen final es un ejemplo):
  _Imagen 1: nombre del [autor/a con hipervínculo al origen](http://www.aularagon.org/), tipo de licencia_
 
 # Importante
 
-Las **capturas de pantalla y video tutoriales** del software que se pretende explicar, tienen licencia, otra cuestión es que se suponga que se puede utilizar porque se usa con fines educativos y de promoción del software en cuestión. Además, existen demasiados antecedentes en Internet de tutoriales y vídeo-tutoriales para tener que denunciar a todos, pero esta suposición la ha de asumir siempre el autor o la autora; la realidad es que tienen licencia y no son libres. <br />Si el software **es de licencia libre o GPL** se consideran habitualmente adecuadas.[[+info]](http://commons.wikimedia.org/wiki/Commons:Licensing/es)
+Las **capturas de pantalla y vídeo tutoriales** del software que se pretende explicar tienen licencia, otra cuestión es que se suponga que se puede utilizar porque se usa con fines educativos y de promoción del software en cuestión. Además, existen demasiados antecedentes en Internet de tutoriales y vídeo-tutoriales para tener que denunciar a todos, pero esta suposición la ha de asumir siempre el autor o la autora; la realidad es que tienen licencia y no son libres. <br />Si el software **es de licencia libre o GPL** se consideran habitualmente adecuadas.[[+info]](http://commons.wikimedia.org/wiki/Commons:Licensing/es)
 
 Las **imágenes embebidas no sirven** para evitar los derechos de autoría, aunque se cite la fuente o autor/a de la obra [[+info](http://gartuz.ticoblogger.com/2009/06/derechos-de-autor-sobre-las-imagenes-en.html)]
 
