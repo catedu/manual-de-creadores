@@ -39,7 +39,7 @@ Hay que sobrestimar las horas de formación por hacer esta actividad: Preparar u
 
 Se debe tener en cuenta que hay participantes de cursos online que empiezan por la evaluación y buscan en los contenidos lo necesario para su resolución. 
 
-Por lo tanto, es habitual que en los cursos on-line **los contenidos que no se evaluan no se trabajen.**
+Por lo tanto, es habitual que en los cursos on-line **los contenidos que no se evalúan no se trabajen.**
 
 **Tenlo en cuenta a la hora de diseñar los contenidos y la evaluación ¡¡¡van de la mano!!!**
 
