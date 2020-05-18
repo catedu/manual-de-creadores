@@ -21,7 +21,7 @@ Para un módulo de 10 horas, de forma aproximada y orientativa:
     - Podemos suponer entre **1-2 páginas por hora de curso** en Gitbook dependiendo mucho de los contenidos, actividades, audiovisuales..
         - Es decir para un módulo de 10 horas por ejemplo 6-10 páginas.
 
-    * La elaboración de la tarea a entregar a quien tutoriza el curso 2 - 3 horas.
+    * La elaboración de la tarea que hay que entregar a quien tutoriza el curso 2 - 3 horas.
 
 ## Estructura general del curso completo
 
