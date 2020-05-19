@@ -2,11 +2,11 @@
 
 ## ¿Cómo se consigue el código embed?
 
-Pues mira estas dos capturas
+Mira estas dos capturas
 
 ![](img/Menu_005.png)
 
-Y ahora a por el código
+Y ahora... ¡a por el código!
 
 ![](img/Seleccion_008.png)
 
