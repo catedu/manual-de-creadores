@@ -1,4 +1,4 @@
-# Créditos.
+# Créditos
 
 Elaborado por el equipo de CATEDU.
 
