@@ -81,6 +81,6 @@ Normalmente establecemos que debe haber un tema-módulo por cada 10 horas de dur
 
 **¿Se puede ver un ejemplo de curso?**
 
-¡Claro! entra en la plataforma de Moodle: [http://moodle.catedu.es/](http://moodle.catedu.es/) en cualquier curso, como persona invitada.
+¡Claro!Entra en la plataforma de Moodle: [http://moodle.catedu.es/](http://moodle.catedu.es/) en cualquier curso, como persona invitada.
 
 ![](img/B9oXViWIIAExKFt.jpg)
