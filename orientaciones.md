@@ -3,7 +3,7 @@
 
 ## Pautas para la elaboración de cursos on-line en Aularagón
 
-Son **ORIENTATIVAS** y dependen de la naturaleza del módulo o curso a elaborar
+Son **ORIENTATIVAS** y dependen de la naturaleza del módulo o curso que vayas a elaborar.
 
 ![](img/img1.png)
 

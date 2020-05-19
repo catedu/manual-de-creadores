@@ -3,9 +3,9 @@
 * [Introducción](README.md)
 * [Vídeos, presentaciones y extras](videos-presentaciones-y-extras.md)
 
-## Manual de creación de cursos de Aularagón
+## Manual de creación de Aularagón
 
-* [1.-Manual para la creación de cursos en Aularagón](index0.md)
+* [1.-Manual para creación de cursos en Aularagón](index0.md)
 * [2.-Derechos y deberes](derechos_y_deberes.md)
 * [3.-Está chupao con Documento Google](est_chupao.md)
 * [4.-Está chupao con GitBook](esta-chupao-con-gitbook.md)

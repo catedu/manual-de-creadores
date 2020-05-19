@@ -5,11 +5,11 @@ Puedes utilizar el botón de la cadena o el siguiente código Markdown
 [CATEDU](/www.catedu.es)
 ~~~
 [CATEDU](/www.catedu.es)
-O mucho más rápido seleccionar y pulsar Ctrl+k
+O mucho más rápido, selecciona y pulsa Ctrl+k
 
 #Citas
 
-Simplemente añade el símbolo > y si quieres citas anidadas, utiliza >>
+Simplemente añade el símbolo > y, si quieres citas anidadas, utiliza >>
 
 >La Educación es el pasaporte hacia el futuro, el mañana pertenece a aquellos que se preparan para él en el día de hoy. (Malcolm X)
 
@@ -23,7 +23,7 @@ Tiene este código:
 
 #Regla horizontal
 
-Pon tres arteriscos seguidos y este es el resultado:
+Pon tres asteriscos seguidos y este es el resultado:
 
 ***
 #Código
