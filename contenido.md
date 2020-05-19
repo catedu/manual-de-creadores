@@ -9,19 +9,19 @@ Hay que tener en cuenta que estamos en un **CURSO ON-LINE** que se lee en pant
 
 Debes ajustar las tareas y los contenidos al tiempo de que se dispone para realizar cada módulo.
 
-**TRUCO**: Piensa primero en las actividades de evaluación:
+**TRUCO**: piensa primero en las actividades de evaluación:
 - una actividad (que tiene que corregir el tutor o la tutora) va asociada a una parte de teoría = un módulo = teoría+actividad
-- Más o menos un módulo son 10 horas
+- más o menos un módulo son 10 horas.
 
 Para un módulo de 10 horas, de forma aproximada y orientativa:
 
 * Comprensión lectora 7-8 horas[^1]
 
     - Si tiene audiovisuales y/o actividades, hay que restar su tiempo.
-    - Podemos suponer entre **1-2 páginas por hora de curso** en Gitbook dependiendo mucho de los contenidos, actividades, audiovisuales..
-        - Es decir, para un módulo de 10 horas por ejemplo 6-10 páginas.
+    - Podemos suponer entre **1-2 páginas por hora de curso** en Gitbook dependiendo mucho de los contenidos, actividades, audiovisuales...
+        - Es decir, para un módulo de 10 horas, por ejemplo, 6-10 páginas.
 
-    * La elaboración de la tarea que hay que entregar a quien tutoriza el curso 2 - 3 horas.
+    - La elaboración de la tarea que hay que entregar a quien tutoriza el curso, 2 - 3 horas.
 
 ## Estructura general del curso completo
 
@@ -45,18 +45,18 @@ Los apartados que se relacionan a continuación deben tener el estilo **Título 
     3. Debemos poner enlaces a páginas solo si la intención es que el alumnado navegue por ella y siempre que sean páginas estables.
     4. En los enlaces, determina:
         * **Si su lectura es obligatoria:** el alcance (de tal enlace desde la página..., o este párrafo...) y después hacer un resumen, esquema, enumeración de las ideas principales.
-        * **Si no es obligatorio,** ponlo en un capítulo **Para saber más ...**
+        * **Si no es obligatorio,** ponlo en un capítulo **Para saber más...**
     5. **"Para saber más..."** 
         * Sirven para poner todo aquello que no sea estrictamente necesario.
         * Es recomendable incluir enlaces con recursos externos.
         * Todos los contenidos en este apartado no son mínimos exigibles.
         * Es conveniente explicar en un par de líneas qué es lo que contiene ese enlace.
-    6. **(Optativo) Resumen de la unidad, síntesis...Esquemática, numerada...**
+    6. **(Optativo) Resumen de la unidad, síntesis... Esquemática, numerada...**
 
 ![](img/descarga.png)
 
 [^1]: La velocidad lectora comprensiva es de unas 200 palabras por minuto. 
-Al leer en pantalla la vista se cansa más; por lo tanto, podemos suponer 1/3 de efectividad, luego 4.000 palabras por hora._
+Al leer en pantalla, la vista se cansa más; por lo tanto, podemos suponer 1/3 de efectividad, luego 4.000 palabras por hora._
 
 ## En general
 
