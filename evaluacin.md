@@ -8,7 +8,7 @@
 - No hay que dejar las tareas **demasiado abiertas**. Se debe dejar **muy claro lo que estamos pidiendo y hay que exponer con claridad lo mínimo para superar la actividad**. Siempre tenemos que pensar en la evaluación por parte de quien tutoriza.
 - No hay que pedir al alumnado que realice una evaluación del curso. CATEDU siempre realiza de oficio un cuestionario a todo el alumnado de los cursos (contenido, tutorización y metodología).
 - Si se pide una actividad real del aula, ten en cuenta dos cosas: es la mejor actividad, pero la más difícil, ver [nota al final](#practica-aula).
-- No se puede pedir al alumnado que publique su trabajo en blogs u otras herramientas abiertas  para el curso por quien haya creado el curso. La razón es el necesario mantenimiento futuro y el acceso de otras personas. En el caso de que fuera esctrictamente necesario, se dejarán las claves de acceso a la administración de dicha herramienta en un Anexo creado al final del documento de Google.
+- No se puede pedir al alumnado que publique su trabajo en blogs u otras herramientas abiertas  para el curso por quien haya creado el curso. La razón es el necesario mantenimiento futuro y el acceso de otras personas. En el caso de que fuera estrictamente necesario, se dejarán las claves de acceso a la administración de dicha herramienta en un Anexo creado al final del documento de Google.
 
 ![](img/mafalda31g.gif)
 
