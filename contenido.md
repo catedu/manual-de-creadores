@@ -5,11 +5,11 @@
 
 Hay que tener en cuenta que estamos en un **CURSO ON-LINE** que se lee en pantalla.
 
-- **No más de dos pantallas de navegación **(barra scroll lado derecho). Es mejor poner más páginas que no una extensa.
+- **No debe haber más de dos pantallas de navegación**(barra scroll lado derecho). Es mejor poner más páginas que una extensa.
 
-Ajustar tareas y contenidos al tiempo de que el o la participante dispone para el módulo.
+Debes ajustar las tareas y los contenidos al tiempo de que se dispone para realizar cada módulo.
 
-**TRUCO**: Pensar primero en las actividades de evaluación:
+**TRUCO**: Piensa primero en las actividades de evaluación:
 - una actividad (que tiene que corregir el tutor o la tutora) va asociada a una parte de teoría = un módulo = teoría+actividad
 - Más o menos un módulo son 10 horas
 
@@ -19,7 +19,7 @@ Para un módulo de 10 horas, de forma aproximada y orientativa:
 
     - Si tiene audiovisuales y/o actividades, hay que restar su tiempo.
     - Podemos suponer entre **1-2 páginas por hora de curso** en Gitbook dependiendo mucho de los contenidos, actividades, audiovisuales..
-        - Es decir para un módulo de 10 horas por ejemplo 6-10 páginas.
+        - Es decir, para un módulo de 10 horas por ejemplo 6-10 páginas.
 
     * La elaboración de la tarea que hay que entregar a quien tutoriza el curso 2 - 3 horas.
 
@@ -35,28 +35,28 @@ Los apartados que se relacionan a continuación deben tener el estilo **Título 
 
 1. **(optativo) Introducción** en la propia página de inicio del tema (no poner de título _introducción_).
 
-    1. Breve y Motivadora, es conveniente introducir **imágenes**, **vídeos**...
-    2. Puede incluir un **caso práctico**, que de sentido a los contenidos y que pueda relacionarse con las experiencias del aula (optativo).
+    1. Debe ser breve y motivadora, es conveniente introducir **imágenes**, **vídeos**...
+    2. Puede incluir un **caso práctico** que dé sentido a los contenidos y que pueda relacionarse con las experiencias del aula (optativo).
 
 2. **Contenidos con recursos que forman parte del contenido (incrustados).**
 
-    1. No perder el objetivo de los contenidos: Guiar al alumnado para que consiga realizar las actividades.
-    2. Variados, motivadores. Por ejemplo, inserta vídeos de youtube.
+    1. No debe perderse el objetivo de los contenidos: guía al alumnado para que consiga realizar las actividades.
+    2. Los contenidos deben ser variados, motivadores. Por ejemplo, inserta vídeos de Youtube.
     3. Debemos poner enlaces a páginas solo si la intención es que el alumnado navegue por ella y siempre que sean páginas estables.
-    4. En Los enlaces, determina:
-        * **Si es obligatorio su lectura:** el alcance (de tal enlace desde la página ..., o este párrafo...) y después hacer un resumen, esquema, enumeración de las ideas principales.
-        * **Si no es obligatorio,** ponerlo en un capítulo **Para saber más ...**
-    5. **"Para saber mas..."** 
+    4. En los enlaces, determina:
+        * **Si su lectura es obligatoria:** el alcance (de tal enlace desde la página..., o este párrafo...) y después hacer un resumen, esquema, enumeración de las ideas principales.
+        * **Si no es obligatorio,** ponlo en un capítulo **Para saber más ...**
+    5. **"Para saber más..."** 
         * Sirven para poner todo aquello que no sea estrictamente necesario.
-        * Recomendable enlaces recursos externos.
+        * Es recomendable incluir enlaces con recursos externos.
         * Todos los contenidos en este apartado no son mínimos exigibles.
         * Es conveniente explicar en un par de líneas qué es lo que contiene ese enlace.
-    6. **(Optativo) Resumen de la unidad, síntesis...Esquemática, numerada ...**
+    6. **(Optativo) Resumen de la unidad, síntesis...Esquemática, numerada...**
 
 ![](img/descarga.png)
 
-[^1]: La velocidad lectora comprensiva está por las 200 palabras por minuto. 
-Por pantalla la vista se cansa más por lo tanto podemos suponer 1/3 de efectividad, luego 4.000 palabras por hora._
+[^1]: La velocidad lectora comprensiva es de unas 200 palabras por minuto. 
+Al leer en pantalla la vista se cansa más; por lo tanto, podemos suponer 1/3 de efectividad, luego 4.000 palabras por hora._
 
 ## En general
 
