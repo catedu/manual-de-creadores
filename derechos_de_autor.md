@@ -1,11 +1,11 @@
 
 # Derechos de autoría
 
-Tenemos que respetar la licencia de la obra que tú creas [Creative Commons,Reconocimiento, No comercial, Compartir Igual. (By-nc-sa)](https://creativecommons.org/licenses/by-nc-sa/3.0/es/) y la licencia de las imágenes y recursos que utilices.
+Tenemos que respetar la licencia de la obra que tú vas a crear [Creative Commons,Reconocimiento, No comercial, Compartir Igual. (By-nc-sa)](https://creativecommons.org/licenses/by-nc-sa/3.0/es/), pero también la licencia de las imágenes y recursos que utilices.
 
 Hay que tener en cuenta que, si por la obra creada se va a tener un **derecho lucrativo**, esto te limita el uso de recursos.
 
-##Si utilizas un material que no es tuyo, asegurate de que tiene licencia CC o de que tienes permiso expreso para utilizarlo y nos lo entregas; en caso contrario, nos podemos encontrar con algún requerimiento [ver un ejemplo](https://drive.google.com/file/d/1PSEQpPEGyIcmlNnbWh98EBwA0ylA7ui4/view?usp=sharing) y la persona responsable eres tú.
+##Si utilizas un material que no es tuyo, asegúrate de que tiene licencia CC o de que tienes permiso expreso para utilizarlo y nos lo entregas; en caso contrario, nos podemos encontrar con algún requerimiento [ver un ejemplo](https://drive.google.com/file/d/1PSEQpPEGyIcmlNnbWh98EBwA0ylA7ui4/view?usp=sharing) y la persona responsable eres tú.
 
 ## Imágenes
 
@@ -23,7 +23,7 @@ Las **capturas de pantalla y vídeo tutoriales** del software que se pretende 
 
 Las **imágenes embebidas no sirven** para evitar los derechos de autoría, aunque se cite la fuente o la autoría de la obra [[+info](http://gartuz.ticoblogger.com/2009/06/derechos-de-autor-sobre-las-imagenes-en.html)]
 
-Los **hipervínculos** no violan los derechos de autoría, puedes utilizar líbremente enlaces a otras páginas.
+Los **hipervínculos** no violan los derechos de autoría, puedes utilizar libremente enlaces a otras páginas.
 
 Una imagen en la **que no se indica ninguna licencia** de que se puede usar libremente, se entiende que **tiene todos los derechos reservados**.
 
@@ -31,7 +31,7 @@ La **responsabilidad** de la obra creada es tuya.
 
 ## Textos
 
-El **plagio en los textos** (copia y pega) no se puede utilizar [[+info](http://biblioteca.ua.es/es/propiedad-intelectual/aprende-sobre-el-plagio-y-como-evitarlo.html)] en estos casos es mejor poner un hipervínculo a la página de origen. Un párrafo o un extracto de **más de 11 palabras concatenadas** se puede considerar plagio.[[+info](http://www.alcancelibre.org/article.php/extractos-11-palabras-violaria-ley-europ)]
+El **plagio en los textos** (copia y pega) no se puede utilizar [[+info](http://biblioteca.ua.es/es/propiedad-intelectual/aprende-sobre-el-plagio-y-como-evitarlo.html)], en estos casos es mejor poner un hipervínculo a la página de origen. Un párrafo o un extracto de **más de 11 palabras concatenadas** se puede considerar plagio.[[+info](http://www.alcancelibre.org/article.php/extractos-11-palabras-violaria-ley-europ)]
 
 EN EL CASO de tener permiso del autor o autora o licencia CC-BY recomendamos ponerlo en forma de cita, es decir:
 
