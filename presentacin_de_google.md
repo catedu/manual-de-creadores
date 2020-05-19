@@ -1,6 +1,6 @@
 # Presentación de Google
 
-A veces lo sencillo es lo mejor
+A veces lo sencillo es lo mejor:
 
 1. Lo que recomendamos es entrar en una cuenta **Google** (si no tienes una, te la proporcionamos).
 2. Abrir un documento de **Google en Drive** tipo **presentación**.
