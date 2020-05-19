@@ -6,15 +6,15 @@ el código es el siguiente:
 
 ![](/assets/2019-09-26 11_38_46.jpg)
 
-Y queda así:
+y queda así:
 
 {%youtube%}https://www.youtube.com/watch?v=JXamK7Lbp4I{%endyoutube%}
 
 #Presentaciones
 
-Es ideal para hacer vídeo tutoriales de forma rápida y muy editable. Recomendamos que uses Google y pongas su código embebido
+Es ideal para hacer vídeo tutoriales de forma rápida y muy editable. Recomendamos que uses Google y que pongas su código embebido
 
-Ver apartado 6.- [Vídeo tutoriales](/video_tutoriales.md) 6.1.-[Presentación de Google](/presentacin_de_google.md) 6.2.-[óomo conseguir el código embed](/como_conseguir_el_cdigo_embed_de_presentaciones_de_google.md)
+Ver apartado 6.- [Vídeo tutoriales](/video_tutoriales.md) 6.1.-[Presentación de Google](/presentacin_de_google.md) 6.2.-[cómo conseguir el código embed](/como_conseguir_el_cdigo_embed_de_presentaciones_de_google.md)
 
 #Acordeón
 Si pones el siguiente código:
