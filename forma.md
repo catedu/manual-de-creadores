@@ -1,6 +1,6 @@
 # Forma
 
-## Estilo: Claro y simple.
+## Estilo: claro y simple.
 
 Es conveniente buscar **títulos** atractivos y **cortos** para las unidades y los apartados.
 
