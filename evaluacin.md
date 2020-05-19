@@ -21,7 +21,7 @@ En un curso de formación dirigido a profesorado, **la mejor** actividad es pe
 
 Hay que preparar al alumnado, guiarlo y concretar muy bien lo que se le pide:
 
-Contexto: darle de opción **un plan B** si no se puede:
+Contexto: dale otra opción, **un plan B**, por si no se puede hacer:
 
 - ¿Y si está de baja, no da clase, está en comisión de servicios...?
 - ¿La actividad es adecuada a cualquier nivel, clase o situación: FP, infantil, formación permanente, PT…?
