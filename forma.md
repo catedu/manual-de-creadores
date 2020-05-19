@@ -25,7 +25,7 @@ Redacta en forma de esquema cuando hagas enumeraciones.
 
 Puedes embeber una presentación, una autoevaluación con un formulario, un vídeo de YouTube... Pega el código de inserción en el documento de Google y nos encargaremos de que se visualice en el documento final.
 
-Si necesitas un usuario de Google genérico de CATEDU, te lo damos para que crees tus presentaciones o formularios
+Si necesitas un usuario de Google genérico de CATEDU, te lo damos para que crees tus presentaciones o formularios.
 
 ![](img/mafalda-254x300.jpg)
 
