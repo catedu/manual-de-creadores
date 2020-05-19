@@ -25,7 +25,7 @@ Contexto: dale otra opción, **un plan B**, por si no se puede hacer:
 
 - ¿Y si está de baja, no da clase, está en comisión de servicios...?
 - ¿La actividad es adecuada a cualquier nivel, clase o situación: FP, infantil, formación permanente, PT…?
-- ¿Y si está realizando el curso en periodo no lectivo? (la gran mayoría aprovecha periodos no lectivos y en casa para hacer los cursos a distancia, en Aularagón hay una convocatoria en Verano)
+- ¿Y si está realizando el curso en periodo no lectivo? (la gran mayoría aprovecha periodos no lectivos y en casa para hacer los cursos a distancia, en Aularagón hay una convocatoria en verano)
 
 - Definir los objetivos.
 - Preparar paso a paso la actividad.
