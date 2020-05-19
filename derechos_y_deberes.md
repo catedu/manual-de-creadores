@@ -51,7 +51,7 @@ Quien se encarga de crear el curso tiene que entregar.
     * ¿En qué formato hay que entregar las evaluaciones? Tenemos dos opciones: en el propio documento de Google compartido o la otra opción que te recomendamos: Te damos acceso al Moodle para ponerlas directamente y así queda tal como lo deseas.
         * Para las evaluaciones tipo **entregas**:
             1. Unas instrucciones lo más precisas posibles de qué tiene que entregar el alumnado. **Cuanto más precisas son, más fácil es la tutorización.**
-            2. Puede ser una entrega tipo texto (una respuesta o un enlace...) o una entrega tipo fichero (un Word, por ejemlo).
+            2. Puede ser una entrega tipo texto (una respuesta o un enlace...) o una entrega tipo fichero (un Word, por ejemplo).
             3. Una breve rúbrica o pautas mínimas exigibles de la entrega que sirvan de guía a quien tutoriza el curso para calificarlo como APTO (no hace falta esta rúbrica si en el enunciado está claro el mínimo exigible).
             4. Por favor, **evita** preguntas con respuestas que tengan una valoración subjetiva, ya que dificulta la tutorización y la evaluación.
         * Para las preguntas tipo **test** sí que recomendamos que lo hagas en Moodle.
@@ -59,7 +59,7 @@ Quien se encarga de crear el curso tiene que entregar.
             2. El enunciado de las preguntas.
                 * Se pueden incluir imágenes, enlaces, código embebido...
             3. Las diferentes opciones marcando la verdadera o verdaderas.
-                * Se puede fijar % de peso (si es tal opción es el 100% de la puntuación pero si marca **tal opción** es el 50% de la puntuación).
+                * Se puede fijar % de peso (si es tal opción, es el 100% de la puntuación; pero si marca **tal opción**, es el 50% de la puntuación).
 
 ![](img/DERECHO_NO._6[1].gif)
 
