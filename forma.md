@@ -32,7 +32,7 @@ Si necesitas un usuario de Google genérico de CATEDU, te lo damos para que cree
 ## Embeber de otros servicios
 
 * Si embebes algún contenido creado por ti en otra plataforma y **exclusivo para este curso**, tienes que proporcionar el usuario y la contraseña para posibles modificaciones futuras o una copia que podamos almacenar con nuestro propio usuario.
-* Si es de otro usuario o de otros contenidos, por ejemplo, un vídeo de Youtube de otra persona, puedes hacerlo sin problemas.
+* Si es de otro usuario o de otros contenidos, por ejemplo, un vídeo de YouTube de un tercero, puedes hacerlo sin problemas.
 * Si quieres, te podemos proporcionar un usuario de Google por si necesitas de sus servicios.
 
 Los **hipervínculos** no deben distraer la atención.
@@ -43,9 +43,9 @@ Los **hipervínculos** no deben distraer la atención.
   * Correcto: en la web de [CATEDU](http://catedu.es)
   * Incorrecto: en la web [http://catedu.es](http://catedu.es)
 
-* Si es un contenido NO OBLIGATORIO, indícalo: "Para saber más.." "Material de apoyo..." \(ten en cuenta que la mayoría del alumnado NO lo leerá\)
+* Si es un contenido NO OBLIGATORIO, indícalo: "Para saber más...", "Material de apoyo..." \(ten en cuenta que la mayoría del alumnado NO lo leerá\).
 
-* Si es un contenido OBLIGATORIO: Indica qué es lo que tienen que leer: "Fíjate en los siguientes aspectos de este enlace..." "Lee detenidamente x de este enlace..."
+* Si es un contenido OBLIGATORIO, indica qué es lo que tienen que leer: "Fíjate en los siguientes aspectos de este enlace...", "Lee detenidamente x de este enlace...".
 
 ![](img/mafalda009.jpg)
 
