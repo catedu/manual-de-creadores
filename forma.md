@@ -63,7 +63,7 @@ Tal como hemos indicado, hay que evitar nombres de páginas extensos, pues ensan
     * [3.-Está chupao con Documento Google](https://catedu.gitbooks.io/manual-de-creadores/content/est_chupao.html) **TÍTULO 1**
     * [4.-Está chupao con GitBook](https://catedu.gitbooks.io/manual-de-creadores/content/esta-chupao-con-gitbook.html) **TITULO 1**
       * [4.1.-Markdown](https://catedu.gitbooks.io/manual-de-creadores/content/esta-chupao-con-gitbook/markdown.html) título 2
-      * [4.2.-Títulos, negritas, cursivas, viñetas](https://catedu.gitbooks.io/manual-de-creadores/content/esta-chupao-con-gitbook/negritas-cursivas-vinetas.html)
+      * [4.2.-Títulos, negritas, cursivas, viñetas](https://catedu.gitbooks.io/manual-de-creadores/content/esta-chupao-con-gitbook/negritas-cursivas-vinetas.html) título 2
       * [4.3.-Enlaces y otros](https://catedu.gitbooks.io/manual-de-creadores/content/otros-elementos.html) título 2
       * [4.4.-Imágenes](https://catedu.gitbooks.io/manual-de-creadores/content/imagenes.html) título 2
       * [4.5.-Árbol de contenidos](https://catedu.gitbooks.io/manual-de-creadores/content/esta-chupao-con-gitbook/arbol-de-contenidos.html) título 2
