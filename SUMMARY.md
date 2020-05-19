@@ -8,7 +8,7 @@
 * [1.-Manual para creación de cursos en Aularagón](index0.md)
 * [2.-Derechos y deberes](derechos_y_deberes.md)
 * [3.-Está chupao con Documento Google](est_chupao.md)
-* [4.-Esta chupao con GitBook](esta-chupao-con-gitbook.md)
+* [4.-Está chupao con GitBook](esta-chupao-con-gitbook.md)
   * [4.1.-Markdown](esta-chupao-con-gitbook/markdown.md)
   * [4.2.-Títulos, negritas, cursivas, viñetas](esta-chupao-con-gitbook/negritas-cursivas-vinetas.md)
   * [4.3.-Enlaces y otros](otros-elementos.md)
