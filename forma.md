@@ -8,7 +8,7 @@ Al **principio** de cada apartado, recomendamos usar el estilo **dialogado**, no
 
 Es mejor evitar los **párrafos extensos**.
 
-* Describe brevemente los **objetivos**
+* Describe brevemente los **objetivos**.
 * En el **cuerpo** inserta imágenes, vídeos...
 * Destaca los **conceptos clave**.
 * Es útil finalizar con **una reflexión** o conclusión. 
@@ -23,7 +23,7 @@ No utilices el tratamiento de **usted**, utiliza la segunda persona del singular
 
 Redacta en forma de esquema cuando hagas enumeraciones.
 
-Puedes embeber una presentación, una autoevaluación con un formulario, un vídeo de Youtube... Pega el código de inserción en el documento de Google y nos encargaremos de que se visualice en el documento final.
+Puedes embeber una presentación, una autoevaluación con un formulario, un vídeo de YouTube... Pega el código de inserción en el documento de Google y nos encargaremos de que se visualice en el documento final.
 
 Si necesitas un usuario de Google genérico de CATEDU, te lo damos para que crees tus presentaciones o formularios
 
