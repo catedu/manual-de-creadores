@@ -1,5 +1,5 @@
 
-# Video tutoriales
+# Vídeo tutoriales
 
 ![](img/img0.png)
 
