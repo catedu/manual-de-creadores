@@ -3,8 +3,8 @@
 
 ## Papeles
 
-- En el caso de que tu labor tenga retribución, en [este enlace](https://drive.google.com/file/d/0B8DUIrelUGyeRVV5VGV1aERpVkU/view?usp=sharing) está la nominilla (dále a descargar, no intentes rellenarla online) que tendrás que firmar y enviar por correo postal a la dirección indicada en la misma. 
-- En este [otro enlace](https://docs.google.com/document/d/1Cl6JrPVv2K9EA7NfMmGuM8ueVvKj95uIDHLEHHg_yLA/edit?usp=sharing) está el documento de cesión de derechos (dále a descargar, no intentes rellenarlo online) que tendrás que firmar y enviar por correo postal a la dirección anterior.
+- En el caso de que tu labor tenga retribución, en [este enlace](https://drive.google.com/file/d/0B8DUIrelUGyeRVV5VGV1aERpVkU/view?usp=sharing) está la nominilla (dale a descargar, no intentes rellenarla online) que tendrás que firmar y enviar por correo postal a la dirección indicada en la misma. 
+- En este [otro enlace](https://docs.google.com/document/d/1Cl6JrPVv2K9EA7NfMmGuM8ueVvKj95uIDHLEHHg_yLA/edit?usp=sharing) está el documento de cesión de derechos (dale a descargar, no intentes rellenarlo online) que tendrás que firmar y enviar por correo postal a la dirección anterior.
 
 # Legislación
 
