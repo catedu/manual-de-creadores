@@ -5,7 +5,7 @@ Tenemos que respetar la licencia de la obra que tú vas a crear [Creative Commo
 
 Hay que tener en cuenta que si por la obra creada se va a tener un **derecho lucrativo**, esto te limita el uso de recursos.
 
-##Si utilizas un material que no es tuyo, asegúrate de que tiene licencia CC o de que tienes permiso expreso para utilizarlo, que nos tienes que entregar. En caso contrario nos podemos encontrar con algún requerimiento [ver un ejemplo](https://drive.google.com/file/d/1PSEQpPEGyIcmlNnbWh98EBwA0ylA7ui4/view?usp=sharing) y la responsabilidad será tuya.
+##Si utilizas un material que no es tuyo, asegúrate de que tiene licencia CC o de que tienes permiso expreso para utilizarlo y nos lo tienes que entregar. En caso contrario, nos podemos encontrar con algún requerimiento [ver un ejemplo](https://drive.google.com/file/d/1PSEQpPEGyIcmlNnbWh98EBwA0ylA7ui4/view?usp=sharing) y la responsabilidad será tuya.
 
 ## Imágenes
 
