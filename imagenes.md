@@ -12,6 +12,6 @@ Si es por URL, o sea, utilizando dirección absoluta, sería:
 
 \!\[](https://catedu.gitbooks.io/manual-de-creadores/content/assets/2019-09-26%2011_05_08.jpg)
 
-Ojo con los [derechos de autoría](/derechos_de_autor.md)
+Ojo con los [derechos de autoría]. (/derechos_de_autor.md)
 
 
