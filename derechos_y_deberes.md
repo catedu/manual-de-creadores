@@ -36,7 +36,7 @@ Quien se encarga de crear el curso tiene que entregar.
 
 1. **Contenido** del curso en un documento de Google, claramente divido en módulos utilizando los estilos de texto.
     
-    * Mira en [esta chupao!!!](est_chupao.html)
+    * Mira en [está chupao!!!](est_chupao.html)
 
     * Para resolver cualquier duda técnica, ponte en c[ontacto con CATEDU - Aularagón - Contenidos](http://soporte.catedu.es/).
 
