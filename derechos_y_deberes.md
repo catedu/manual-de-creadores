@@ -19,7 +19,7 @@
 
 ###Tutorización
 
-* También te proponemos que te encargues de la primera tutorización de tu curso (y las siguientes hasta que haya una convocatoria abierta de tutores y tutoras) para que puedas mejorarlo.
+* También te proponemos que te encargues de la primera tutorización de tu curso (y de las siguientes hasta que haya una convocatoria abierta de tutores y tutoras) para que puedas mejorarlo.
 
     * Excepto en el caso de los minicursos, pues no se tutorizan.
 
@@ -50,7 +50,7 @@ El creador o la creadora tiene que entregar:
     * ¿En qué formato hay que entregar las evaluaciones? Tienes dos opciones: o en el propio documento de Google compartido o mediante la otra opción que te recomendamos que consiste en que te damos acceso al Moodle para ponerlas directamente y así queda tal como lo deseas.
         * Para las evaluaciones tipo **entregas**:
             1. Unas instrucciones lo más precisas posibles de qué tiene que entregar el alumnado. **Cuanto más precisas, más fácil es la tutorización.**
-            2. Puede ser una entrega tipo texto (una respuesta o un enlace...) o una entrega tipo fichero (un Word, por ejemlo).
+            2. Puede ser una entrega tipo texto (una respuesta o un enlace...) o una entrega tipo fichero (un Word, por ejemplo).
             3. Una breve rúbrica o pautas mínimas exigibles de la entrega que sirvan de guía a quien lo tutorice para calificarlo como APTO (esta rúbrica no hace falta si en el enunciado está claro el mínimo exigible).
             4. Por favor, **evita** preguntas con respuestas que tengan una valoración subjetiva, ya que dificultan la tutorización y la evaluación.
         * Para las preguntas tipo **test** sí que recomendamos que lo hagas en Moodle.
@@ -64,7 +64,7 @@ El creador o la creadora tiene que entregar:
 
 ## ¿Cuantos módulos o temas debe tener mi curso?
 
-Normalmente establecemos que el curso tenga un tema-módulo por cada 10 horas de duración del curso para los cursos tutorizados y, para los minicursos, 2-3 temas breves.
+Normalmente establecemos que el curso tenga un tema-módulo por cada 10 horas de duración para los cursos tutorizados y, para los minicursos, 2-3 temas breves.
 
 * Los cursos tutorizados tienen una duración de **30 - 40 - 50** horas (no aceptamos más de 50).
 
