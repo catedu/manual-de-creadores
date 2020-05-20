@@ -2,7 +2,7 @@
 
 ![](img/cabeceraweb.jpg)
 
-Este es un manual para los creadores y las creadoras de cursos en Aularagón
+Este es un manual para los creadores y las creadoras de cursos en Aularagón.
 
 ## Contacto
 
