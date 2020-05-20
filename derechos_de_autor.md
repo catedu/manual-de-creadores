@@ -1,7 +1,7 @@
 
 # Derechos de autoría
 
-Tenemos que respetar la licencia de la obra que tú vas a crear [Creative Commons,Reconocimiento, No comercial, Compartir Igual. (By-nc-sa)](https://creativecommons.org/licenses/by-nc-sa/3.0/es/), pero también la licencia de las imágenes y recursos que utilices.
+Tenemos que respetar la licencia de la obra que tú vas a crear [Creative Commons, Reconocimiento, No comercial, Compartir Igual. (By-nc-sa)](https://creativecommons.org/licenses/by-nc-sa/3.0/es/), pero también la licencia de las imágenes y recursos que utilices.
 
 Hay que tener en cuenta que, si por la obra creada se va a tener un **derecho lucrativo**, esto te limita el uso de recursos.
 
@@ -11,7 +11,7 @@ Hay que tener en cuenta que, si por la obra creada se va a tener un **derecho l
 
 Tienes dos opciones:
 
-1. Utilizar imágenes con licencia libre [aquí tienes algunas](http://aularagon.catedu.es/materialesaularagon2013/HerramientasFormacionProfesorado/Diseno/imgenes.html)
+1. Utilizar imágenes con licencia libre. [Aquí tienes algunas](http://aularagon.catedu.es/materialesaularagon2013/HerramientasFormacionProfesorado/Diseno/imgenes.html)
 1. Realizar tus propias imágenes (con editores de imagen, de Office, mapas conceptuales, fotos tuyas...)
 
 Cuando se utilicen imágenes con licencia libre, hay que citar su origen con este formato (la imagen final es un ejemplo):
@@ -19,7 +19,7 @@ Cuando se utilicen imágenes con licencia libre, hay que citar su origen con est
 
 # Importante
 
-Las **capturas de pantalla y vídeo tutoriales** del software que se pretende explicar tienen licencia, otra cuestión es que se suponga que se pueden utilizar porque se usan con fines educativos y de promoción del software en cuestión. Además, existen demasiados antecedentes en Internet de tutoriales y vídeo-tutoriales para tener que denunciar a todos, pero esta suposición la ha de asumir siempre el autor o la autora; la realidad es que tienen licencia y no son libres. <br />Si el software **es de licencia libre o GPL** se consideran habitualmente adecuadas.[[+info]](http://commons.wikimedia.org/wiki/Commons:Licensing/es)
+Las **capturas de pantalla y vídeo-tutoriales** del software que se pretende explicar tienen licencia, otra cuestión es que se suponga que se pueden utilizar porque se usan con fines educativos y de promoción del software en cuestión. Además, existen demasiados antecedentes en Internet de tutoriales y vídeo-tutoriales para tener que denunciar a todos, pero esta suposición la ha de asumir siempre el autor o la autora; la realidad es que tienen licencia y no son libres. <br />Si el software **es de licencia libre o GPL** habitualmente se consideran adecuadas.[[+info]](http://commons.wikimedia.org/wiki/Commons:Licensing/es)
 
 Las **imágenes embebidas no sirven** para evitar los derechos de autoría, aunque se cite la fuente o la autoría de la obra [[+info](http://gartuz.ticoblogger.com/2009/06/derechos-de-autor-sobre-las-imagenes-en.html)]
 
@@ -37,7 +37,7 @@ EN EL CASO de tener permiso del autor o autora o licencia CC-BY recomendamos pon
 
 - Después de ':' se puede empezar con mayúsculas.
 - Entre comillas inglesas (“”) 
-- Citando siempre el origen y el autor o autora (importante) [[+info](http://centrodeescritura.javerianacali.edu.co/index.php?option=com_content&amp;view=article&amp;id=82:plagio-ique-es-y-como-evitarlo&amp;catid=45:referencias-bibliograficas&amp;Itemid=66)]
+- Citando siempre el origen y la autora o el autor (importante) [[+info](http://centrodeescritura.javerianacali.edu.co/index.php?option=com_content&amp;view=article&amp;id=82:plagio-ique-es-y-como-evitarlo&amp;catid=45:referencias-bibliograficas&amp;Itemid=66)]
 
 ## Una imagen vale más que mil palabras:
 
