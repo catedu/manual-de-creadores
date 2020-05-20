@@ -9,32 +9,32 @@
 
 * Si tu labor no va a tener retribución o, según nuestra valoración, tiene una retribución menor a la merecida, te damos una publicación con ISBN.
 
-* En los dos casos cedes la propiedad a la DGA y los derechos de los contenidos serán [Creative Commons NC-BY-SA](https://creativecommons.org/licenses/by-nc-sa/3.0/es/) (o sea, la autoría siempre será tuya y se te reconoce y cita en la obra, pero ya no tienes su propiedad y otra persona no puede aprovecharse económicamente de ella, y esto afecta también a las posibles obras derivadas)
+* En los dos casos cedes la propiedad a la DGA y los derechos de los contenidos serán [Creative Commons NC-BY-SA](https://creativecommons.org/licenses/by-nc-sa/3.0/es/) (o sea, la autoría siempre será tuya y se te reconoce y cita en la obra, pero ya no tienes su propiedad y otra persona no puede aprovecharse económicamente de ella, y esto afecta también a las posibles obras derivadas).
 
 ![](img/creativecommons.png)
 
 * **POR FAVOR, LEE MUY BIEN EL APARTADO [5.4.- DERECHOS DE AUTORÍA](/derechos_de_autor.md)**
 
-* Cuando acabes tu trabajo y tenga nuestro visto bueno, tienes que entregar estos [papeles](papeles_y_legislacin.md)
+* Cuando acabes tu trabajo y tenga nuestro visto bueno, tienes que entregar estos [papeles](papeles_y_legislacin.md).
 
 ###Tutorización
 
-* También te proponemos que te encargues de la primera tutorización (y las siguientes hasta que haya una convocatoria abierta de tutores y tutoras) para que puedas mejorar tu curso.
+* También te proponemos que te encargues de la primera tutorización de tu curso (y las siguientes hasta que haya una convocatoria abierta de tutores y tutoras) para que puedas mejorarlo.
 
     * Excepto en el caso de los minicursos, pues no se tutorizan.
 
 * La retribución de la tutorización está fijada por [resolución](papeles_y_legislacin.md) a 0.7€/hora y alumno/a
 
-    * es decir, para un curso de 50 horas y 40 alumnos: 1.400€
+    * es decir, para un curso de 50 horas y 40 participantes: 1.400€
     * La tutorización de curso on-line se reconoce con una certificación con número GIFP. ([Ver certificados como tutor/a](https://catedu.gitbooks.io/curso-de-tutores/content/8_certificados.html))
 
 ![](img/derechos-del-nincc83o-10-mafalda.gif)
 
 ## Deberes
 
-El creador o la creadora tiene que entregar.
+El creador o la creadora tiene que entregar:
 
-1. **Contenido** del curso en un documento de Google, claramente divido en módulos utilizando los estilos de texto.
+1. **Contenido** del curso en un documento de Google, claramente divido en módulos y habiendo utilizado los estilos de texto.
     
     * Mira en [está chupao!!!](est_chupao.html)
 
@@ -64,9 +64,9 @@ El creador o la creadora tiene que entregar.
 
 ## ¿Cuantos módulos o temas debe tener mi curso?
 
-Normalmente establecemos que un tema-módulo por cada 10 horas de duración del curso para los cursos tutorizados y para los minicursos, 2-3 temas breves.
+Normalmente establecemos que el curso tenga un tema-módulo por cada 10 horas de duración del curso para los cursos tutorizados y, para los minicursos, 2-3 temas breves.
 
-* Los cursos tutorizados tienen una duración **30 - 40 - 50** horas (no aceptamos más de 50)
+* Los cursos tutorizados tienen una duración de **30 - 40 - 50** horas (no aceptamos más de 50).
 
     * Hay que tener en cuenta cuánto tiempo cuesta realizar la actividad.
 
@@ -74,13 +74,13 @@ Normalmente establecemos que un tema-módulo por cada 10 horas de duración del 
 
 ## Dónde entrego los materiales y en qué plazos
 
-* En Aularagón hay tres convocatorias: Junio, Octubre y Febrero, depende de en qué convocatoria va a salir tu curso.
-* Te pedimos que durante el mes anterior al de la convocatoria ya hayas entregado material provisional para poder realizar las revisiones necesarias y así poder tener la versión definitiva para la convocatoria. 
+* En Aularagón hay tres convocatorias: Junio, Octubre y Febrero. La entrega dependerá de en qué convocatoria vaya a salir tu curso.
+* Te pedimos que durante el mes anterior al de la convocatoria ya hayas entregado material provisional para poder realizar las revisiones necesarias y así poder tener lista la versión definitiva para la convocatoria. 
 * Dónde: por [contacto](http://soporte.catedu.es/) al principio y mediante debate en el documento de google posteriormente.
 
 **¿Se puede ver un ejemplo de curso?**
 
-¡Claro! Entra en la plataforma de Moodle: [http://moodle.catedu.es/](http://moodle.catedu.es/) en cualquier curso, como persona invitada.
+¡Claro! Entra en la plataforma de Moodle [http://moodle.catedu.es/](http://moodle.catedu.es/) en cualquier curso, como persona invitada.
 
 ![](img/B9oXViWIIAExKFt.jpg)
 
