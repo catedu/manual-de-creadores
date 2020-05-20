@@ -5,12 +5,12 @@
 
 Hay que tener en cuenta que estamos en un **CURSO ON-LINE** que se lee en pantalla.
 
-- **No debe haber más de dos pantallas de navegación**(barra scroll lado derecho). Es mejor poner más páginas que una extensa.
+- **No debe haber más de dos pantallas de navegación** (barra scroll lado derecho). Es mejor poner más páginas que una extensa.
 
 Debes ajustar las tareas y los contenidos al tiempo del que se dispone para realizar cada módulo.
 
 **TRUCO** Piensa primero en las actividades de evaluación:
-- una actividad (que tiene que corregir el tutor o la tutora) va asociada a una parte de teoría = un módulo = teoría+actividad
+- una actividad (que tiene que corregir el tutor o la tutora) va asociada a una parte de teoría: un módulo = teoría+actividad
 - más o menos un módulo son 10 horas.
 
 Para un módulo de 10 horas, podemos calcular de forma aproximada y orientativa:
@@ -33,7 +33,7 @@ Los apartados que se relacionan a continuación deben tener el estilo **Título 
 
 ## Estructura de cada módulo
 
-1. **(optativo) Introducción** en la propia página de inicio del tema (no poner de título _introducción_).
+1. **(optativo) Introducción** en la propia página de inicio del tema (no pongas como título _introducción_).
 
     1. Debe ser breve y motivadora. Es conveniente incorporar **imágenes**, **vídeos**...
     2. Puede incluir un **caso práctico** que dé sentido a los contenidos y que pueda relacionarse con las experiencias del aula (optativo).
@@ -47,7 +47,7 @@ Los apartados que se relacionan a continuación deben tener el estilo **Título 
         * **Si su lectura es obligatoria:** el alcance (de tal enlace desde la página..., o este párrafo...) y después que haya que hacer un resumen, esquema, enumeración de las ideas principales.
         * **Si no es obligatorio,** ponlo en un capítulo **Para saber más...**
     5. **"Para saber más..."** 
-        * Sirven para poner todo aquello que no sea estrictamente necesario.
+        * Sirve para poner todo aquello que no sea estrictamente necesario.
         * Es recomendable incluir enlaces con recursos externos.
         * Todos los contenidos en este apartado no son mínimos exigibles.
         * Es conveniente explicar en un par de líneas qué es lo que contiene ese enlace.
