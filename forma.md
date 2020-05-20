@@ -54,8 +54,8 @@ Los **hipervínculos** no deben distraer la atención.
 Tal como hemos indicado, hay que evitar nombres de páginas extensos, pues ensancha el menú lateral de la izquierda.
 
 * Solo se debe poner el nombre de la página con un **título** atractivo y **corto**.
-* Puedes poner **numeraciones**. Un ejemplo es este mismo material y esta página es la 5.1.- Forma
-* En el primer orden de jerarquía hay que poner el título del nombre del módulo \(Título 1 si lo haces en Google Docs\) y el segundo, a Título dos
+* Puedes poner **numeraciones**. Un ejemplo es este mismo material y esta página es la 5.1.- Forma.
+* En el primer orden de jerarquía hay que poner el título del nombre del módulo \(Título 1 si lo haces en Google Docs\) y el segundo, a Título 2.
   * Es decir, en este material:
   
     * [1.-Manual para creación de cursos en Aularagón](https://catedu.gitbooks.io/manual-de-creadores/content/index0.html) **TÍTULO 1**
