@@ -7,17 +7,17 @@
 - Hay que calcular el tiempo de ejecución de las tareas y ajustarlo a las horas de las que se disponen. 
 - No hay que dejar las tareas **demasiado abiertas**. Se debe dejar **muy claro lo que estamos pidiendo y hay que exponer con claridad lo mínimo para superar la actividad**. Siempre tenemos que pensar en la evaluación por parte de quien tutoriza.
 - No hay que pedir al alumnado que realice una evaluación del curso. CATEDU siempre realiza de oficio un cuestionario a todo el alumnado de los cursos (contenido, tutorización y metodología).
-- Si se pide una actividad real del aula, ten en cuenta dos cosas: es la mejor actividad, pero la más difícil, ver [nota al final](#practica-aula).
-- No se puede pedir al alumnado que publique su trabajo en blogs u otras herramientas abiertas  para el curso por quien haya creado el curso. La razón es el necesario mantenimiento futuro y el acceso de otras personas. En el caso de que fuera estrictamente necesario, se dejarán las claves de acceso a la administración de dicha herramienta en un Anexo creado al final del documento de Google.
+- Si se pide una actividad real del aula, ten en cuenta dos cosas: es la mejor actividad, pero la más difícil.  Ver [nota al final](#practica-aula).
+- No se puede pedir al alumnado que publique su trabajo en blogs u otras herramientas abiertas para el curso por quien haya creado el curso. La razón es el necesario mantenimiento futuro y el acceso de otras personas. En el caso de que fuera estrictamente necesario, se dejarán las claves de acceso a la administración de dicha herramienta en un Anexo creado al final del documento de Google.
 
 ![](img/mafalda31g.gif)
 
 ## Indicaciones a la persona que tutoriza el curso
 
-Si necesitas dar alguna instrucción a quien se vaya a encargar de la tutorización, por ejemplo, unos criterios mínimos para corregir, acceso a alguna plataforma... lo necesario para facilitar la labor de la tutorización, refléjalo también en el anexo y lo pondremos en oculto en el mismo curso. Lo verá quien lo tutorice, pero  no el alumnado.
+Si necesitas dar alguna instrucción a quien se vaya a encargar de la tutorización, por ejemplo, unos criterios mínimos para corregir, acceso a alguna plataforma..., es decir, lo necesario para facilitar la labor de la tutorización; refléjalo también en el anexo y lo pondremos en oculto en el mismo curso. Lo verá quien lo tutorice, pero  no el alumnado.
 
 ## <a id="practica-aula"></a>Ojo con pedir hacer una práctica real en el aula
-En un curso de formación dirigido a profesorado, **la mejor** actividad es pedirle que lo aprendido se aplique en el aula; pero a la vez es la **más difícil.**
+En un curso de formación dirigido a profesorado, **la mejor** actividad es pedirle al alumnado que lo aprendido se aplique en el aula; pero a la vez es la **más difícil.**
 
 Hay que preparar al alumnado, guiarlo y concretar muy bien lo que se le pide:
 
@@ -25,13 +25,13 @@ Contexto: dale otra opción, **un plan B**, por si no se puede hacer:
 
 - ¿Y si está de baja, no da clase, está en comisión de servicios...?
 - ¿La actividad es adecuada a cualquier nivel, clase o situación: FP, infantil, formación permanente, PT…?
-- ¿Y si está realizando el curso en periodo no lectivo? (la gran mayoría aprovecha periodos no lectivos y en casa para hacer los cursos a distancia, en Aularagón hay una convocatoria en verano)
+- ¿Y si está realizando el curso en periodo no lectivo? (la gran mayoría aprovecha periodos no lectivos y en casa para hacer los cursos a distancia, en Aularagón hay una convocatoria en verano).
 
-- Definir los objetivos.
-- Preparar paso a paso la actividad.
+- Define los objetivos.
+- Prepara paso a paso la actividad.
 
-- Qué documento tiene que entregar al tutor o tutora.
-- Qué formato…
+- Determina qué documento tiene que entregar al tutor o tutora.
+- Explicita qué formato se debe utilizar…
 
 Hay que sobrestimar las horas de formación por hacer esta actividad: preparar una actividad en el aula, realizarla y plasmar su resultado son horas de formación.
 
