@@ -8,7 +8,7 @@
 
 # Legislación
 
-Retribución
+Retribución:
 
 * Pago [Resolución 16/12/16](http://aularagon.catedu.es/materialesaularagon2013/cursotut/cursotut3/2017-1-1-Resolucion_pagos_ponentes.pdf).
 
@@ -19,9 +19,9 @@ Retribución
 * Retención IRPF pág 16 del Reforma reglamento IRPF 2015
 * Límites:
     - Para el cómputo de horas máximo en materia de incompatibilidades, es la tercera parte de horas del curso. [Art 12](http://aularagon.catedu.es/materialesaularagon2013/cursotut/cursotut3/2017-1-1-Resolucion_pagos_ponentes.pdf)
-    - Funcionarios: Según Art. 33 del R.D. 462/2002, 30/5 (BOE 129)  el total de las remuneraciones anuales por colaboración en actividades de formación del profesorado no deben sobrepasar el 25% de las retribuciones [[ver](http://www.boe.es/buscar/doc.php?id=BOE-A-2002-10337)]
+    - Personal funcionario: Según Art. 33 del R.D. 462/2002, 30/5 (BOE 129)  el total de las remuneraciones anuales por colaboración en actividades de formación del profesorado no deben sobrepasar el 25% de las retribuciones [[ver](http://www.boe.es/buscar/doc.php?id=BOE-A-2002-10337)]
 
-Creadores y creadoras: Convocatorias pasadas de creación de cursos en Aularagón:
+Creadoras y creadores: Convocatorias pasadas de creación de cursos en Aularagón:
 
 - [Lomce 19/9/14](http://www.catedu.es/webcatedu/index.php/convocatorias/71-convocatoria-de-seleccion-de-creadores-de-contenidos-de-cursos-online-lomce)
 - [Competencia lingüística 17/10/14](http://www.educaragon.org/Files/Files/UserFiles/File/Educacin%20a%20distancia/Resolucion_17_octubre_2014_materiales_competencia_linguistica.pdf) y [10/12/14](http://www.educaragon.org/Files/Files/UserFiles/File/Educacin%20a%20distancia/Resolucion_definitiva_materiales_comp_ling_2014.pdf)
