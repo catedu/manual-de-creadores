@@ -73,7 +73,7 @@ Tal como hemos indicado, hay que evitar nombres de páginas extensos, pues ensan
       * [5.2.-Contenido](https://catedu.gitbooks.io/manual-de-creadores/content/contenido.html) título 2
       * [5.3.-Evaluación](https://catedu.gitbooks.io/manual-de-creadores/content/evaluacin.html) título 2
       * [5.4.-Derechos de autoría](https://catedu.gitbooks.io/manual-de-creadores/content/derechos_de_autor.html) título 2
-    * [6.-Vídeo tutoriales](https://catedu.gitbooks.io/manual-de-creadores/content/video_tutoriales.html) **TÍTULO 1**
+    * [6.-Vídeo-tutoriales](https://catedu.gitbooks.io/manual-de-creadores/content/video_tutoriales.html) **TÍTULO 1**
       * [6.1.-Presentación de Google](https://catedu.gitbooks.io/manual-de-creadores/content/presentacin_de_google.html) título 2
       * [6.2.-Cómo conseguir el código embed de Presentaciones de Google](https://catedu.gitbooks.io/manual-de-creadores/content/como_conseguir_el_cdigo_embed_de_presentaciones_de_google.html) título 2
     * [7.-Papeles y Legislación](https://catedu.gitbooks.io/manual-de-creadores/content/papeles_y_legislacin.html) **TÍTULO 1**
