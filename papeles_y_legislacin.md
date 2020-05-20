@@ -28,7 +28,7 @@ Creadoras y creadores: Convocatorias pasadas de creación de cursos en Aularagó
 
 Tutorización:
 
-- [Instrucciones para las tutoras y tutores con enlaces a los documentos de pautas de corrección](https://catedu.gitbooks.io/curso-de-tutores/content/)
+- [Instrucciones para las tutoras y los tutores con enlaces a los documentos de pautas de corrección](https://catedu.gitbooks.io/curso-de-tutores/content/)
 - [Resolución CATEDU 19/9/2014](http://www.catedu.es/webcatedu/images/noticias/Resoluci%C3%B3n%20de%2017%20de%20septiembre%20de%202014%20CONVOCATORIA%20TUTORES.pdf)
 - [Resolución CATEDU 21/4/2016](http://web.catedu.es/webcatedu/index.php/convocatorias/166-convocatoria-creacion-de-listado-de-tutores-para-aularagon)
 - [Resolución CATEDU 10/7/2017](http://web.catedu.es/webcatedu/index.php/convocatorias/219-convocatoria-seleccion-de-tutores-aularagon)
