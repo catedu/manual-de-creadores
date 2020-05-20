@@ -2,9 +2,9 @@
 # Evaluación
 
 - A diferencia de los cursos presenciales, lo más importante de los cursos online son las actividades evaluadoras.
-- Para la resolución de la tarea, se han debido comprender los contenidos del tema, pero se deben evitar actividades que consistan en la **repetición de parte de los contenidos.**
+- Para la resolución de la tarea, se han tenido que comprender los contenidos del tema, pero se deben evitar actividades que consistan en la **repetición de parte de los contenidos.**
 - La realización de la tarea **no debe basarse en la búsqueda de cierta información** desarrollada en los contenidos, más bien en la **comprensión** y en la capacidad de **relacionar** esos contenidos, que deben ser la base necesaria (pero no suficiente) para su resolución. 
-- Hay que calcular el tiempo de ejecución de las tareas y ajustarlo a las horas de las que se disponen. 
+- Hay que calcular el tiempo de ejecución de las tareas y ajustarlo a las horas de las que se dispone. 
 - No hay que dejar las tareas **demasiado abiertas**. Se debe dejar **muy claro lo que estamos pidiendo y hay que exponer con claridad lo mínimo para superar la actividad**. Siempre tenemos que pensar en la evaluación por parte de quien tutoriza.
 - No hay que pedir al alumnado que realice una evaluación del curso. CATEDU siempre realiza de oficio un cuestionario a todo el alumnado de los cursos (contenido, tutorización y metodología).
 - Si se pide una actividad real del aula, ten en cuenta dos cosas: es la mejor actividad, pero la más difícil.  Ver [nota al final](#practica-aula).
