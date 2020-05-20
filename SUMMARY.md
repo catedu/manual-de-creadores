@@ -20,7 +20,7 @@
   * [5.2.-Contenido](contenido.md)
   * [5.3.-Evaluación](evaluacin.md)
   * [5.4.-Derechos de autoría](derechos_de_autor.md)
-* [6.-Vídeo tutoriales](video_tutoriales.md)
+* [6.-Vídeo-tutoriales](video_tutoriales.md)
   * [6.1.-Presentación de Google](presentacin_de_google.md)
   * [6.2.-Cómo conseguir el código embed de Presentaciones de Google](como_conseguir_el_cdigo_embed_de_presentaciones_de_google.md)
 * [7.-Papeles y Legislación](papeles_y_legislacin.md)
