@@ -2,11 +2,11 @@
 
 Tienes dos opciones:
 
-1. Utilizar imágenes con licencia libre. [Aquí tienes algunas](http://aularagon.catedu.es/materialesaularagon2013/HerramientasFormacionProfesorado/Diseno/imgenes.html)
+1. Utilizar imágenes con licencia libre, aquí tienes direcciones https://es.padlet.com/CATEDU/paginas_web_fotos
 1. Realizar tus propias imágenes (con editores de imagen, de Office, mapas conceptuales, fotos tuyas...)
 
 Cuando se utilicen imágenes con licencia libre, hay que citar su origen con este formato (la imagen final es un ejemplo):
- _Imagen 1: nombre del [autor/a con hipervínculo al origen](http://www.aularagon.org/), tipo de licencia_
+ _Imagen 1: nombre del [autor/a con hipervínculo al origen](http://www.catedu.es/), tipo de licencia_
 
 ## Importante
 
@@ -22,6 +22,6 @@ La **responsabilidad** de la obra creada es tuya.
 
 ## Una imagen vale más que mil palabras:
 
-![](http://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Licensing_tutorial_es.svg/500px-Licensing_tutorial_es.svg.png)
+![](https://upload.wikimedia.org/wikipedia/commons/2/2c/Licensing_tutorial_es.svg)
 
 Imagen 1: [Wikipedia Commons](http://commons.wikimedia.org/wiki/File:Licensing_tutorial_es.svg#filelinks), [CC-BY-SA-3.0](http://commons.wikimedia.org/wiki/Category:CC-BY-SA-3.0)
