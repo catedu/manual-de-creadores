@@ -26,7 +26,7 @@
 * La retribución de la tutorización está fijada por [resolución](papeles_y_legislacin.md) a 0.7€/hora y alumno/a
 
     * es decir, para un curso de 50 horas y 40 participantes: 1.400€
-    * La tutorización de curso on-line se reconoce con una certificación con número GIFP. ([Ver certificados como tutor/a](https://catedu.gitbooks.io/curso-de-tutores/content/8_certificados.html))
+    * La tutorización de curso on-line se reconoce con una certificación con número GIFP. ([Ver certificados como tutor/a](https://catedu.github.io/curso-de-tutores/8_certificados.html))
 
 ![](img/derechos-del-nincc83o-10-mafalda.gif)
 

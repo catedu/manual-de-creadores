@@ -58,25 +58,25 @@ Tal como hemos indicado, hay que evitar nombres de páginas extensos, pues ensan
 * En el primer orden de jerarquía hay que poner el título del nombre del módulo \(Título 1 si lo haces en Google Docs\) y el segundo, a Título 2.
   * Es decir, en este material:
   
-    * [1.-Manual para creación de cursos en Aularagón](https://catedu.gitbooks.io/manual-de-creadores/content/index0.html) **TÍTULO 1**
-    * [2.-Derechos y deberes](https://catedu.gitbooks.io/manual-de-creadores/content/derechos_y_deberes.html) **TÍTULO 1**
-    * [3.-Está chupao con Documento Google](https://catedu.gitbooks.io/manual-de-creadores/content/est_chupao.html) **TÍTULO 1**
-    * [4.-Está chupao con GitBook](https://catedu.gitbooks.io/manual-de-creadores/content/esta-chupao-con-gitbook.html) **TITULO 1**
-      * [4.1.-Markdown](https://catedu.gitbooks.io/manual-de-creadores/content/esta-chupao-con-gitbook/markdown.html) título 2
-      * [4.2.-Títulos, negritas, cursivas, viñetas](https://catedu.gitbooks.io/manual-de-creadores/content/esta-chupao-con-gitbook/negritas-cursivas-vinetas.html) título 2
-      * [4.3.-Enlaces y otros](https://catedu.gitbooks.io/manual-de-creadores/content/otros-elementos.html) título 2
-      * [4.4.-Imágenes](https://catedu.gitbooks.io/manual-de-creadores/content/imagenes.html) título 2
-      * [4.5.-Árbol de contenidos](https://catedu.gitbooks.io/manual-de-creadores/content/esta-chupao-con-gitbook/arbol-de-contenidos.html) título 2
-      * [4.6.-Vídeos, presentaciones y extras](https://catedu.gitbooks.io/manual-de-creadores/content/videos-presentaciones-y-extras.html)  título 2
-    * [5.-Orientaciones](https://catedu.gitbooks.io/manual-de-creadores/content/orientaciones.html) **TÍTULO 1**
-      * [5.1.-Forma](https://catedu.gitbooks.io/manual-de-creadores/content/forma.html) título 2
-      * [5.2.-Contenido](https://catedu.gitbooks.io/manual-de-creadores/content/contenido.html) título 2
-      * [5.3.-Evaluación](https://catedu.gitbooks.io/manual-de-creadores/content/evaluacin.html) título 2
-      * [5.4.-Derechos de autoría](https://catedu.gitbooks.io/manual-de-creadores/content/derechos_de_autor.html) título 2
-    * [6.-Vídeo-tutoriales](https://catedu.gitbooks.io/manual-de-creadores/content/video_tutoriales.html) **TÍTULO 1**
-      * [6.1.-Presentación de Google](https://catedu.gitbooks.io/manual-de-creadores/content/presentacin_de_google.html) título 2
-      * [6.2.-Cómo conseguir el código embed de Presentaciones de Google](https://catedu.gitbooks.io/manual-de-creadores/content/como_conseguir_el_cdigo_embed_de_presentaciones_de_google.html) título 2
-    * [7.-Papeles y Legislación](https://catedu.gitbooks.io/manual-de-creadores/content/papeles_y_legislacin.html) **TÍTULO 1**
+    * [1.-Manual para creación de cursos en Aularagón](https://catedu.github.io/manual-de-creadores/index0.html) **TÍTULO 1**
+    * [2.-Derechos y deberes](https://catedu.github.io/manual-de-creadores/derechos_y_deberes.html) **TÍTULO 1**
+    * [3.-Está chupao con Documento Google](https://catedu.github.io/manual-de-creadores/est_chupao.html) **TÍTULO 1**
+    * [4.-Está chupao con GitBook](https://catedu.github.io/manual-de-creadores/esta-chupao-con-gitbook.html) **TITULO 1**
+      * [4.1.-Markdown](https://catedu.github.io/manual-de-creadores/esta-chupao-con-gitbook/markdown.html) título 2
+      * [4.2.-Títulos, negritas, cursivas, viñetas](https://catedu.github.io/manual-de-creadores/esta-chupao-con-gitbook/negritas-cursivas-vinetas.html) título 2
+      * [4.3.-Enlaces y otros](https://catedu.github.io/manual-de-creadores/otros-elementos.html) título 2
+      * [4.4.-Imágenes](https://catedu.github.io/manual-de-creadores/imagenes.html) título 2
+      * [4.5.-Árbol de contenidos](https://catedu.github.io/manual-de-creadores/esta-chupao-con-gitbook/arbol-de-contenidos.html) título 2
+      * [4.6.-Vídeos, presentaciones y extras](https://catedu.github.io/manual-de-creadores/videos-presentaciones-y-extras.html)  título 2
+    * [5.-Orientaciones](https://catedu.github.io/manual-de-creadores/orientaciones.html) **TÍTULO 1**
+      * [5.1.-Forma](https://catedu.github.io/manual-de-creadores/forma.html) título 2
+      * [5.2.-Contenido](https://catedu.github.io/manual-de-creadores/contenido.html) título 2
+      * [5.3.-Evaluación](https://catedu.github.io/manual-de-creadores/evaluacin.html) título 2
+      * [5.4.-Derechos de autoría](https://catedu.github.io/manual-de-creadores/derechos_de_autor.html) título 2
+    * [6.-Vídeo-tutoriales](https://catedu.github.io/manual-de-creadores/video_tutoriales.html) **TÍTULO 1**
+      * [6.1.-Presentación de Google](https://catedu.github.io/manual-de-creadores/presentacin_de_google.html) título 2
+      * [6.2.-Cómo conseguir el código embed de Presentaciones de Google](https://catedu.github.io/manual-de-creadores/como_conseguir_el_cdigo_embed_de_presentaciones_de_google.html) título 2
+    * [7.-Papeles y Legislación](https://catedu.github.io/manual-de-creadores/papeles_y_legislacin.html) **TÍTULO 1**
 
 
 
