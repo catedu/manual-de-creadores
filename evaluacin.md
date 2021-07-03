@@ -10,7 +10,7 @@ Hay dos casos:
 * A Cursos TUTORIZADOS
 * B Cursos NO TUTORIZADOS
 
-## A_ CASO DE CURSOS TUTORIZADOS
+## A CASO DE CURSOS TUTORIZADOS
 
 ### A1 Hay que ....
 
@@ -26,7 +26,7 @@ Hay dos casos:
 
 Si necesitas dar alguna instrucción a quien se vaya a encargar de la tutorización, por ejemplo, unos criterios mínimos para corregir, acceso a alguna plataforma..., es decir, lo necesario para facilitar la labor de la tutorización; refléjalo también en el anexo y lo pondremos en oculto en el mismo curso. Lo verá quien lo tutorice, pero  no el alumnado.
 
-## <a id="practica-aula"></a>Ojo con pedir hacer una práctica real en el aula
+## A3 Ojo con pedir hacer una práctica real en el aula
 En un curso de formación dirigido a profesorado, **la mejor** actividad es pedirle al alumnado que lo aprendido se aplique en el aula; pero a la vez es la **más difícil.**
 
 Hay que preparar al alumnado, guiarlo y concretar muy bien lo que se le pide:
@@ -45,7 +45,7 @@ Contexto: dale otra opción, **un plan B**, por si no se puede hacer:
 
 Hay que sobrestimar las horas de formación por hacer esta actividad: preparar una actividad en el aula, realizarla y plasmar su resultado son horas de formación.
 
-### A3 Ojo con la picardía
+### A4 Ojo con la picardía
 
 Se debe tener en cuenta que hay participantes de cursos online que empiezan por la evaluación y buscan en los contenidos lo necesario para su resolución.
 
@@ -57,7 +57,7 @@ Por lo tanto, es habitual que en los cursos on-line **los contenidos que no se e
 
 ## B CURSOS NO TUTORIZADOS
 
-Para estos cursos, se realizan preguntas Resolucion_17_octubre_2014_materiales_competencia_linguistica
+Para estos cursos, se realizan preguntas tipo test que se corrigen de forma automática
 
 Para entregar el cuestionario tienes que pasar a CATEDU un texto con este formato [GIFT](https://docs.moodle.org/all/es/Formato_GIFT)
 
