@@ -11,16 +11,19 @@ Para estos cursos, se realizan preguntas tipo test que se corrigen de forma auto
 
 Para entregar el cuestionario tienes que pasar a CATEDU un texto (word, .txt o incluso en el cuerpo de un email) con este formato [GIFT](https://docs.moodle.org/all/es/Formato_GIFT)
 
+```cpp
 Pregunta
 {
 ~opción incorrecta
 =opción correcta
 ~opción incorrecta
 }
+```
+* Da igual que la correcta sea la primera, la segunda...  se van a barajar aleatoriamente, lo importante es que la correcta tenga el = y las incorrectas la virguililla ~
 
-para poner la virgulilla ~ lo mejor es ALGR+4
+* Para poner la virgulilla ~ lo mejor es ALGR+4 otra opción es Alt+126
 
-Poner **como mínimo 3 opciones** pues el alumno tiene **2 intentos** en el test y aprueba si supera el **60%**, si no se te ocurren opciones, puedes poner "ninguna de las anteriores es verdadera", "todas las opciones son verdaderas"
+Poner **como mínimo 3 opciones** pues el alumno tiene **2 intentos** en el test y aprueba si supera el **60%**, si no se te ocurren opciones, puedes poner _"ninguna de las anteriores opciones es verdadera"_ o  _"todas las opciones son verdaderas"_
 
 ## Cuántas preguntas y cuantos cuestionarios
 
