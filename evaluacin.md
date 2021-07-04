@@ -1,18 +1,11 @@
 
-# Evaluación
+# Evaluación CURSOS TUTORIZADOS
 
 - A diferencia de los cursos presenciales, lo más importante de los cursos online son las actividades evaluadoras.
-- Para la resolución de la tarea, se han tenido que comprender los contenidos del tema, pero se deben evitar actividades que consistan en la **repetición de parte de los contenidos.**
+- Para la resolución de la tarea, se han tenido que comprender los contenidos del tema, pero se deben **evitar** actividades que consistan en la **repetición de parte de los contenidos.**
 - La realización de la tarea **no debe basarse en la búsqueda de cierta información** desarrollada en los contenidos, más bien en la **comprensión** y en la capacidad de **relacionar** esos contenidos, que deben ser la base necesaria (pero no suficiente) para su resolución. 
 
-Hay dos casos:
-
-* A Cursos TUTORIZADOS
-* B Cursos NO TUTORIZADOS
-
-## A CASO DE CURSOS TUTORIZADOS
-
-### A1 Hay que ....
+## 1 Hay que ....
 
 - Hay que calcular el tiempo de ejecución de las tareas y ajustarlo a las horas de las que se dispone. 
 - No hay que dejar las tareas **demasiado abiertas**. Se debe dejar **muy claro lo que estamos pidiendo y hay que exponer con claridad lo mínimo para superar la actividad**. Siempre tenemos que pensar en la evaluación por parte de quien tutoriza.
@@ -22,7 +15,7 @@ Hay dos casos:
 
 ![](img/mafalda31g.gif)
 
-### A2 Indicaciones a la persona que tutoriza el curso
+## 2 Indicaciones a la persona que tutoriza el curso
 
 Si necesitas dar alguna instrucción a quien se vaya a encargar de la tutorización, por ejemplo, unos criterios mínimos para corregir, acceso a alguna plataforma..., es decir, lo necesario para facilitar la labor de la tutorización; refléjalo también en el anexo y lo pondremos en oculto en el mismo curso. Lo verá quien lo tutorice, pero  no el alumnado.
 
@@ -45,7 +38,7 @@ Contexto: dale otra opción, **un plan B**, por si no se puede hacer:
 
 Hay que sobrestimar las horas de formación por hacer esta actividad: preparar una actividad en el aula, realizarla y plasmar su resultado son horas de formación.
 
-### A4 Ojo con la picardía
+## 4 Ojo con la picardía
 
 Se debe tener en cuenta que hay participantes de cursos online que empiezan por la evaluación y buscan en los contenidos lo necesario para su resolución.
 
@@ -54,22 +47,3 @@ Por lo tanto, es habitual que en los cursos on-line **los contenidos que no se e
 **Tenlo en cuenta a la hora de diseñar los contenidos y la evaluación ¡¡¡van de la mano!!!**
 
 <strong><img src="img/Mafalda_Errare_humanum_est.jpg" width="400" height="352" /></strong>
-
-## B CURSOS NO TUTORIZADOS
-
-Para estos cursos, se realizan preguntas tipo test que se corrigen de forma automática
-
-Para entregar el cuestionario tienes que pasar a CATEDU un texto con este formato [GIFT](https://docs.moodle.org/all/es/Formato_GIFT)
-
-Pregunta
-{
-~opción incorrecta
-=opción correcta
-~opción incorrecta
-}
-
-para poner la virgulilla ~ lo mejor es ALGR+4
-
-Poner como mínimo 3 opciones pues el alumno tiene 2 intentos en el test y aprueba si supera el 60%
-
-Podéis poner distintos puntos en cada pregunta, lo más cómodo es hacer 10 preguntas de 1 punto cada una en cada módulo. Por ejemplo si tu curso es de 30 horas, lo normal es hacer 3 módulos y en cada módulo un cuestionario test de 10 preguntas.
