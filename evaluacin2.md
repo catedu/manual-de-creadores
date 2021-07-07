@@ -23,6 +23,8 @@ Pregunta
 
 * Para poner la virgulilla ~ lo mejor es ALGR+4 otra opción es Alt+126
 
+* Entre pregunta y pregunta pon un **salto de línea**
+
 Poner **como mínimo 3 opciones** pues el alumno tiene **2 intentos** en el test y aprueba si supera el **60%**, si no se te ocurren opciones, puedes poner _"ninguna de las anteriores opciones es verdadera"_ o  _"todas las opciones son verdaderas"_
 
 ## Cuántas preguntas y cuantos cuestionarios
