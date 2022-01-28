@@ -16,8 +16,14 @@ Retribución:
     * Importe bruto = **25€** *Num_horas_curso.
     * Remodelación = 25% sustancial = 50%.
 
-* Acuerdo Gobierno de Aragón 27/9/16
-* Retención IRPF pág 16 del Reforma reglamento IRPF 2015
+* Máximos [Resolución Orden HAP/2186/2017](http://www.boa.aragon.es/cgi-bin/EBOA/BRSCGI?CMD=VEROBJ&MLKOB=997497504545)
+  * Creación : máximo 95€ por hora lectiva
+  * Aportación : máximo 45€ por hora lectiva
+  * Modificación sustancial: máximo 50% de los anteriores Límites
+  * Actualización máximo 25% de los anteriores Límites
+
+
+* [Retención IRPF 15%](https://www.agenciatributaria.es/static_files/Sede/Programas_ayuda/Retenciones/2021/Tipos_retenciones_IRPF2021.pdf)
 * Límites:
     - Para el cómputo de horas máximo en materia de incompatibilidades, es la tercera parte de horas del curso. [Art 12](http://aularagon.catedu.es/materialesaularagon2013/cursotut/cursotut3/2017-1-1-Resolucion_pagos_ponentes.pdf)
     - Personal funcionario: Según Art. 33 del R.D. 462/2002, 30/5 (BOE 129)  el total de las remuneraciones anuales por colaboración en actividades de formación del profesorado no deben sobrepasar el 25% de las retribuciones [[ver](http://www.boe.es/buscar/doc.php?id=BOE-A-2002-10337)]
